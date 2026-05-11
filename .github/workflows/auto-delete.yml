@@ -1,0 +1,47 @@
+name: Super Fast Auto-Delete (30s Interval)
+on:
+  schedule:
+    - cron: '*/5 * * * *' # GitHub bangun setiap 5 menit
+  workflow_dispatch: # Bisa dijalankan manual
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fast Response Monitoring
+        run: |
+          # Melakukan pengecekan 10 kali dengan jeda 30 detik (Total ~5 menit)
+          for i in {1..10}
+          do
+            echo "Pengecekan ke-$i..."
+            node -e "
+            const fs = require('fs');
+            const path = 'token.json';
+            if (fs.existsSync(path)) {
+              const data = JSON.parse(fs.readFileSync(path, 'utf8'));
+              const now = new Date();
+              const active = data.filter(t => new Date(t.expired) > now);
+              
+              if (data.length !== active.length) {
+                fs.writeFileSync(path, JSON.stringify(active, null, 2));
+                console.log('Expired token ditemukan! Menghapus...');
+                process.exit(0); // Exit dengan sukses jika ada perubahan
+              } else {
+                console.log('Belum ada yang expired.');
+              }
+            }
+            " && break # Jika ada yang dihapus, keluar dari loop untuk push ke git
+
+            sleep 30 # Tunggu 30 detik sebelum cek lagi
+          done
+
+      - name: Push Changes to Github
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "System-Fast-Delete"
+          git add token.json
+          git commit -m "System: Fast-Response Auto Delete" || exit 0
+          git push
