@@ -54,5 +54,12 @@
     "limit": 1000000000000000000,
     "tanggalDaftar": "15/05/2026",
     "jamDaftar": "17:30"
+  },
+  "6285730360167": {
+    "nama": "kindy",
+    "umur": "16",
+    "limit": 3,
+    "tanggalDaftar": "15/05/2026",
+    "jamDaftar": "17:53"
   }
 }
