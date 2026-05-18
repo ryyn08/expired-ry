@@ -187,5 +187,12 @@
     "limit": 13,
     "tanggalDaftar": "18/05/2026",
     "jamDaftar": "17:31"
+  },
+  "60102151812": {
+    "nama": "pal",
+    "umur": "14",
+    "limit": 3,
+    "tanggalDaftar": "18/05/2026",
+    "jamDaftar": "17:31"
   }
 }
