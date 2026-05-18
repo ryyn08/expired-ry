@@ -79,7 +79,7 @@
   "6285322966377": {
     "nama": "Araa",
     "umur": "20",
-    "limit": 0,
+    "limit": 100000000000000,
     "tanggalDaftar": "16/05/2026",
     "jamDaftar": "20:56"
   },
