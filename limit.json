@@ -1,10 +1,8 @@
 {
   "6285950221403": {
     "nama": "ikymahjong",
-    "umur": "20",
-    "limit": 22,
-    "tanggalDaftar": "15/05/2026",
-    "jamDaftar": "10:00"
+    "umur": 20,
+    "limit": 50
   },
   "628192534577": {
     "nama": "aca",
