@@ -2,12 +2,16 @@
   "6285950221403": {
     "nama": "ikymahjong",
     "umur": 20,
-    "limit": 89001919928282830
+    "limit": 89001919928282830,
+    "tanggalDaftar": "15/05/2026",
+    "jamDaftar": "10:00"
   },
   "628192534577": {
     "nama": "aca",
     "umur": 40,
-    "limit": 2000
+    "limit": 2000,
+    "tanggalDaftar": "15/05/2026",
+    "jamDaftar": "10:00"
   },
   "6285811500108": {
     "nama": "voks",
@@ -39,8 +43,11 @@
   },
   "6285860608690": {
     "nama": "awa",
-    "umur": 15,
-    "limit": "∞"
+    "umur": "15",
+    "limit": "∞",
+    "tanggalDaftar": "15/05/2026",
+    "jamDaftar": "10:00"
+    
   },
   "6285730360167": {
     "nama": "kindy",
