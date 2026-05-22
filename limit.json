@@ -47,7 +47,6 @@
     "limit": "∞",
     "tanggalDaftar": "15/05/2026",
     "jamDaftar": "10:00"
-    
   },
   "6285730360167": {
     "nama": "kindy",
@@ -319,5 +318,12 @@
     "limit": 223,
     "tanggalDaftar": "22/05/2026",
     "jamDaftar": "17:00"
+  },
+  "6285883881264": {
+    "nama": "ownerbok",
+    "umur": "18",
+    "limit": 100,
+    "tanggalDaftar": "23/05/2026",
+    "jamDaftar": "00:08"
   }
 }
