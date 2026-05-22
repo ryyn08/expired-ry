@@ -1,1 +1,9 @@
-{}
+{
+  "120363406005498732@g.us": {
+    "name": "TEST DASHBOARD",
+    "status": "active",
+    "expired": 1779472707992,
+    "timeStr": "2m",
+    "notified": false
+  }
+}
