@@ -8,8 +8,8 @@
   },
   "628192534577": {
     "nama": "aca",
-    "umur": 40,
-    "limit": 10201569,
+    "umur": "40",
+    "limit": 5000,
     "tanggalDaftar": "15/05/2026",
     "jamDaftar": "10:00"
   },
