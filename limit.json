@@ -211,8 +211,10 @@
   },
   "6283160626550": {
     "nama": "Denz",
-    "umur": 11,
-    "limit": 113108305
+    "umur": "11",
+    "limit": 59293,
+    "tanggalDaftar": "",
+    "jamDaftar": ""
   },
   "6289519046357": {
     "nama": "awaimutlucubaikgasombongpacarjaehyun",
@@ -231,7 +233,7 @@
   "6282295279790": {
     "nama": "asya",
     "umur": "40",
-    "limit": 51454,
+    "limit": 51654,
     "tanggalDaftar": "19/05/2026",
     "jamDaftar": "18:42"
   },
