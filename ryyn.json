@@ -5,13 +5,13 @@
       "name": "ryynstr",
       "email": "ryynuncheck@gmail.com",
       "password": "@Ryyn201106",
-      "balance": 1000,
+      "balance": 155000,
       "coin_balance": 100000,
       "joined_at": "2026-06-02T18:28:00.075Z"
     }
   ],
   "market_rates": {
-    "current_price": 100000000,
+    "current_price": 100988203,
     "last_update": "2026-06-02T18:51:36.390Z",
     "history": [
       {
@@ -144,6 +144,14 @@
       "amount": 100000,
       "status": "success",
       "timestamp": "2026-06-02T18:52:00.962Z"
+    },
+    {
+      "id": "TXAFUSG0IM",
+      "uid": "u1780424880075",
+      "type": "deposit_admin",
+      "amount": 154000,
+      "status": "success",
+      "timestamp": "2026-06-02T18:55:51.735Z"
     }
   ],
   "withdrawals": [
