@@ -1,0 +1,13 @@
+{
+  "users": [],
+  "market_rates": {
+    "current_price": 452000000,
+    "last_update": "2026-06-03T01:00:00Z",
+    "history": [
+      {"timestamp": "2026-06-03T00:00:00Z", "price": 448000000},
+      {"timestamp": "2026-06-03T01:00:00Z", "price": 452000000}
+    ]
+  },
+  "transactions": [],
+  "withdrawals": []
+}
