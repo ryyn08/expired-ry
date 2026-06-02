@@ -1,11 +1,27 @@
 {
-  "users": [],
+  "users": [
+    {
+      "uid": "u1780424880075",
+      "name": "ryynstr",
+      "email": "ryynuncheck@gmail.com",
+      "password": "@Ryyn201106",
+      "balance": 0,
+      "coin_balance": 0,
+      "joined_at": "2026-06-02T18:28:00.075Z"
+    }
+  ],
   "market_rates": {
     "current_price": 452000000,
     "last_update": "2026-06-03T01:00:00Z",
     "history": [
-      {"timestamp": "2026-06-03T00:00:00Z", "price": 448000000},
-      {"timestamp": "2026-06-03T01:00:00Z", "price": 452000000}
+      {
+        "timestamp": "2026-06-03T00:00:00Z",
+        "price": 448000000
+      },
+      {
+        "timestamp": "2026-06-03T01:00:00Z",
+        "price": 452000000
+      }
     ]
   },
   "transactions": [],
