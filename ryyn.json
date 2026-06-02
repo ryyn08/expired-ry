@@ -11,7 +11,7 @@
     }
   ],
   "market_rates": {
-    "current_price": 703427703,
+    "current_price": 705904368,
     "last_update": "2026-06-02T18:32:08.093Z",
     "history": [
       {
@@ -110,7 +110,7 @@
       "wallet_number": "085883881264",
       "wallet_name": "RYYN AJA",
       "amount": 10000,
-      "status": "pending",
+      "status": "success",
       "timestamp": "2026-06-02T18:33:51.044Z"
     }
   ]
