@@ -5,13 +5,13 @@
       "name": "ryynstr",
       "email": "ryynuncheck@gmail.com",
       "password": "@Ryyn201106",
-      "balance": 157071,
+      "balance": 159804,
       "coin_balance": 100000,
       "joined_at": "2026-06-02T18:28:00.075Z"
     }
   ],
   "market_rates": {
-    "current_price": 989527,
+    "current_price": 996042,
     "last_update": "2026-06-02T18:51:36.390Z",
     "history": [
       {
@@ -204,6 +204,19 @@
       "mult": "0",
       "status": "success",
       "timestamp": "2026-06-03T02:29:19.763Z"
+    },
+    {
+      "id": "BTXG7AWG",
+      "uid": "u1780424880075",
+      "type": "bet_win",
+      "amount": 3733,
+      "pnl": 2733,
+      "dir": "up",
+      "entry": 993503,
+      "exit": 996042,
+      "mult": "3.73",
+      "status": "success",
+      "timestamp": "2026-06-03T02:29:26.896Z"
     }
   ],
   "withdrawals": [
