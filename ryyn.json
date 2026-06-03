@@ -5,13 +5,13 @@
       "name": "ryynstr",
       "email": "ryynuncheck@gmail.com",
       "password": "@Ryyn201106",
-      "balance": 873759,
+      "balance": 373759,
       "coin_balance": 100000,
       "joined_at": "2026-06-02T18:28:00.075Z"
     }
   ],
   "market_rates": {
-    "current_price": 54253,
+    "current_price": 56778,
     "last_update": "2026-06-03T02:32:51.483Z",
     "history": [
       {
@@ -407,6 +407,14 @@
       "mult": "0",
       "status": "success",
       "timestamp": "2026-06-03T02:35:49.247Z"
+    },
+    {
+      "id": "TXXGG88W",
+      "uid": "u1780424880075",
+      "type": "withdrawal",
+      "amount": 500000,
+      "status": "success",
+      "timestamp": "2026-06-03T02:36:23.360Z"
     }
   ],
   "withdrawals": [
@@ -419,6 +427,16 @@
       "amount": 10000,
       "status": "success",
       "timestamp": "2026-06-02T18:33:51.044Z"
+    },
+    {
+      "id": "WDXGG88W",
+      "uid": "u1780424880075",
+      "wallet_type": "DANA",
+      "wallet_number": "0811111111111",
+      "wallet_name": "ryynajaaaa",
+      "amount": 500000,
+      "status": "success",
+      "timestamp": "2026-06-03T02:36:23.360Z"
     }
   ]
 }
