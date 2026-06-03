@@ -5,12 +5,12 @@
       "name": "boyyy",
       "email": "reyhanryyn@gmail.com",
       "password": "@Ryyn201106",
-      "balance": 12905,
+      "balance": 27168,
       "joined_at": "2026-06-03T04:22:44.301Z"
     }
   ],
   "market_rates": {
-    "current_price": 351292,
+    "current_price": 354409,
     "last_update": "",
     "history": []
   },
@@ -77,6 +77,19 @@
       "mult": "3.90",
       "status": "success",
       "timestamp": "2026-06-03T09:15:38.336Z"
+    },
+    {
+      "id": "BTXUPV5G",
+      "uid": "u1780460564298",
+      "type": "bet_win",
+      "amount": 19263,
+      "pnl": 14263,
+      "dir": "up",
+      "entry": 352280,
+      "exit": 354409,
+      "mult": "3.85",
+      "status": "success",
+      "timestamp": "2026-06-03T09:15:47.572Z"
     }
   ],
   "withdrawals": []
