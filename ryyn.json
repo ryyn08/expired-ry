@@ -5,15 +5,24 @@
       "name": "boyyy",
       "email": "reyhanryyn@gmail.com",
       "password": "@Ryyn201106",
-      "balance": 0,
+      "balance": 1000,
       "joined_at": "2026-06-03T04:22:44.301Z"
     }
   ],
   "market_rates": {
-    "current_price": 452000,
+    "current_price": 468939,
     "last_update": "",
     "history": []
   },
-  "transactions": [],
+  "transactions": [
+    {
+      "id": "TXXKAAJ6",
+      "uid": "u1780460564298",
+      "type": "deposit_admin",
+      "amount": 1000,
+      "status": "success",
+      "timestamp": "2026-06-03T04:23:44.850Z"
+    }
+  ],
   "withdrawals": []
 }
