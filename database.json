@@ -5,6 +5,14 @@
       "lastCheckin": "",
       "checkinDay": 1,
       "checkinStreak": 0
+    },
+    "Ryn-996516": {
+      "deviceId": "Ryn-996516",
+      "ip": "103.158.252.54",
+      "coins": 3,
+      "lastClaimDate": "",
+      "streakDay": 1,
+      "totalReacts": 0
     }
   },
   "reactRequests": [],
