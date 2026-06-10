@@ -23,7 +23,7 @@
       "coins": 3,
       "lastClaimDate": "10/6/2026",
       "streakDay": 2,
-      "totalReacts": 0
+      "totalReacts": 1
     }
   },
   "reactRequests": [
@@ -40,7 +40,7 @@
       "deviceId": "Ryn-996516",
       "url": "https://rududjjde",
       "emoji": "🫡,😋,😡",
-      "status": "Proses",
+      "status": "Berhasil",
       "timestamp": "17.40"
     }
   ]
