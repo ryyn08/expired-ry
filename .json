@@ -34,14 +34,5 @@
       "totalReacts": 0
     }
   },
-  "reactRequests": [
-    {
-      "requestId": "REQ-364714",
-      "deviceId": "Ryn-996516",
-      "url": "https://whatsapp.com/channel/0029Vb8SClgHQbRwhvyMDo0m/101",
-      "emoji": "😡",
-      "status": "Berhasil",
-      "timestamp": "17.42"
-    }
-  ]
+  "reactRequests": []
 }
