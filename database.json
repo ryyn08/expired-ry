@@ -1,31 +1,3 @@
 {
-    "Ryn-506673": {
-      "deviceId": "Ryn-506673",
-      "ip": "103.158.252.54",
-      "coins": 4,
-      "lastClaimDate": "10/6/2026",
-      "streakDay": 2,
-      "totalReacts": 0
-    },
-    "Ryn-985798": {
-      "deviceId": "Ryn-985798",
-      "ip": "103.158.252.54",
-      "coins": 3,
-      "lastClaimDate": "",
-      "streakDay": 1,
-      "totalReacts": 0
-    },
-    "Ryn-996516": {
-      "deviceId": "Ryn-996516",
-      "ip": "103.158.252.54",
-      "coins": 1004,
-      "lastClaimDate": "10/6/2026",
-      "streakDay": 2,
-      "totalReacts": 0
-    }
-  },
-  "reactRequests": [],
-  "appStatus": {
-    "maintenance": false
-  }
+    
 }
