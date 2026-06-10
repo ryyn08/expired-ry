@@ -20,7 +20,7 @@
     "Ryn-996516": {
       "deviceId": "Ryn-996516",
       "ip": "103.158.252.54",
-      "coins": 105,
+      "coins": 104,
       "lastClaimDate": "11/6/2026",
       "streakDay": 3,
       "totalReacts": 4
@@ -42,6 +42,14 @@
       "emoji": "🤭👅🗿",
       "status": "Berhasil",
       "timestamp": "00.50"
+    },
+    {
+      "requestId": "REQ-409654",
+      "deviceId": "Ryn-996516",
+      "url": "https://whatsapp.com/channel/0029Vb6EHtR5Ui2gHMW9zX2x/135",
+      "emoji": "🤭",
+      "status": "Proses",
+      "timestamp": "01.07"
     }
   ]
 }
