@@ -20,7 +20,7 @@
     "Ryn-996516": {
       "deviceId": "Ryn-996516",
       "ip": "103.158.252.54",
-      "coins": 103,
+      "coins": 102,
       "lastClaimDate": "11/6/2026",
       "streakDay": 3,
       "totalReacts": 6
@@ -34,5 +34,14 @@
       "totalReacts": 0
     }
   },
-  "reactRequests": []
+  "reactRequests": [
+    {
+      "requestId": "REQ-968198",
+      "deviceId": "Ryn-996516",
+      "url": "https://",
+      "emoji": "😡",
+      "status": "Proses",
+      "timestamp": "01.55"
+    }
+  ]
 }
