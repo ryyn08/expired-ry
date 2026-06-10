@@ -23,7 +23,7 @@
       "coins": 102,
       "lastClaimDate": "11/6/2026",
       "streakDay": 3,
-      "totalReacts": 6
+      "totalReacts": 7
     },
     "Ryn-552914": {
       "deviceId": "Ryn-552914",
@@ -40,7 +40,7 @@
       "deviceId": "Ryn-996516",
       "url": "https://",
       "emoji": "😡",
-      "status": "Proses",
+      "status": "Berhasil",
       "timestamp": "01.55"
     }
   ]
