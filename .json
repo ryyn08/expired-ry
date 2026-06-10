@@ -20,7 +20,7 @@
     "Ryn-996516": {
       "deviceId": "Ryn-996516",
       "ip": "103.158.252.54",
-      "coins": 4,
+      "coins": 3,
       "lastClaimDate": "10/6/2026",
       "streakDay": 2,
       "totalReacts": 0
@@ -34,6 +34,14 @@
       "emoji": "🤤,🫡,😋",
       "status": "Berhasil",
       "timestamp": "16.23"
+    },
+    {
+      "requestId": "REQ-787668",
+      "deviceId": "Ryn-996516",
+      "url": "https://rududjjde",
+      "emoji": "🫡,😋,😡",
+      "status": "Proses",
+      "timestamp": "17.40"
     }
   ]
 }
