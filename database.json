@@ -13,6 +13,14 @@
       "lastClaimDate": "10/6/2026",
       "streakDay": 2,
       "totalReacts": 0
+    },
+    "Ryn-985798": {
+      "deviceId": "Ryn-985798",
+      "ip": "103.158.252.54",
+      "coins": 3,
+      "lastClaimDate": "",
+      "streakDay": 1,
+      "totalReacts": 0
     }
   },
   "reactRequests": [],
