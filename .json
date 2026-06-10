@@ -23,7 +23,8 @@
       "coins": 102,
       "lastClaimDate": "11/6/2026",
       "streakDay": 3,
-      "totalReacts": 7
+      "totalReacts": 7,
+      "isBanned": true
     },
     "Ryn-552914": {
       "deviceId": "Ryn-552914",
