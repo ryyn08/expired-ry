@@ -1,3 +1,14 @@
 {
-    
+  "users": {
+    "Ryn-8598": {
+      "coin": 3,
+      "lastCheckin": "",
+      "checkinDay": 1,
+      "checkinStreak": 0
+    }
+  },
+  "reactRequests": [],
+  "appStatus": {
+    "maintenance": false
+  }
 }
