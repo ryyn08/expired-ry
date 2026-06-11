@@ -56,14 +56,6 @@
   },
   "reactRequests": [
     {
-      "requestId": "REQ-968198",
-      "deviceId": "Ryn-996516",
-      "url": "https://",
-      "emoji": "😡",
-      "status": "Berhasil",
-      "timestamp": "01.55"
-    },
-    {
       "requestId": "REQ-372716",
       "deviceId": "Ryn-996516",
       "url": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114 ",
