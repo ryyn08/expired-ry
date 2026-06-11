@@ -28,14 +28,14 @@
     "Ryn-996516": {
       "deviceId": "Ryn-996516",
       "ip": "103.158.252.54",
-      "coins": 105,
+      "coins": 106,
       "lastClaimDate": "11/6/2026",
       "streakDay": 5,
       "totalReacts": 8,
       "isBanned": false,
       "claimCountToday": 2,
       "banned": false,
-      "lastNotificationText": "",
+      "lastNotificationText": "Admin telah mengirimkan 1 koin ke akun dompet anda!",
       "reactLimitDate": "",
       "reactTodayCount": 0
     },
