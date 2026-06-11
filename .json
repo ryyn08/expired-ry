@@ -33,7 +33,7 @@
       "coins": 0,
       "lastClaimDate": "12/6/2026",
       "streakDay": 6,
-      "totalReacts": 9,
+      "totalReacts": 10,
       "isBanned": false,
       "claimCountToday": 2,
       "banned": false,
@@ -43,7 +43,7 @@
       "lastReactDate": "12/6/2026",
       "dailyReactCount": 2,
       "pendingTfAmount": 0,
-      "pendingAccTrigger": false
+      "pendingAccTrigger": true
     },
     "Ryn-552914": {
       "deviceId": "Ryn-552914",
@@ -60,7 +60,7 @@
       "deviceId": "Ryn-996516",
       "url": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114 ",
       "emoji": "😂,😭,🗿",
-      "status": "Proses",
+      "status": "Berhasil",
       "timestamp": "00.37"
     }
   ]
