@@ -43,7 +43,7 @@
       "lastReactDate": "12/6/2026",
       "dailyReactCount": 1,
       "pendingTfAmount": 0,
-      "pendingAccTrigger": true
+      "pendingAccTrigger": false
     },
     "Ryn-552914": {
       "deviceId": "Ryn-552914",
