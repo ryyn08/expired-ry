@@ -23,12 +23,14 @@
       "totalReacts": 0,
       "isBanned": false,
       "reactLimitDate": "12/6/2026",
-      "reactTodayCount": 0
+      "reactTodayCount": 0,
+      "lastReactDate": "12/6/2026",
+      "dailyReactCount": 0
     },
     "Ryn-996516": {
       "deviceId": "Ryn-996516",
       "ip": "103.158.252.54",
-      "coins": 107,
+      "coins": 108,
       "lastClaimDate": "12/6/2026",
       "streakDay": 6,
       "totalReacts": 8,
@@ -39,7 +41,8 @@
       "reactLimitDate": "",
       "reactTodayCount": 0,
       "lastReactDate": "12/6/2026",
-      "dailyReactCount": 0
+      "dailyReactCount": 0,
+      "pendingTfAmount": 1
     },
     "Ryn-552914": {
       "deviceId": "Ryn-552914",
