@@ -22,11 +22,13 @@
     "Ryn-996516": {
       "deviceId": "Ryn-996516",
       "ip": "103.158.252.54",
-      "coins": 104,
+      "coins": 105,
       "lastClaimDate": "11/6/2026",
-      "streakDay": 3,
+      "streakDay": 4,
       "totalReacts": 7,
-      "isBanned": false
+      "isBanned": false,
+      "claimCountToday": 1,
+      "banned": false
     },
     "Ryn-552914": {
       "deviceId": "Ryn-552914",
