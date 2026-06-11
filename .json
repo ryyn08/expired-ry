@@ -32,7 +32,7 @@
       "lastClaimDate": "11/6/2026",
       "streakDay": 5,
       "totalReacts": 8,
-      "isBanned": true,
+      "isBanned": false,
       "claimCountToday": 2,
       "banned": false,
       "lastNotificationText": "",
