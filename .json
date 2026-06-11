@@ -35,7 +35,9 @@
       "isBanned": false,
       "claimCountToday": 2,
       "banned": false,
-      "lastNotificationText": "React anda berhasil di proses silahkan cek pesan saluran tersebut"
+      "lastNotificationText": "",
+      "reactLimitDate": "",
+      "reactTodayCount": 0
     },
     "Ryn-552914": {
       "deviceId": "Ryn-552914",
