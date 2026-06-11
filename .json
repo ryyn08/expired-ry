@@ -4,12 +4,15 @@
     "Ryn-506673": {
       "deviceId": "Ryn-506673",
       "ip": "103.158.252.54",
-      "coins": 9,
-      "lastClaimDate": "11/6/2026",
-      "streakDay": 5,
+      "coins": 10,
+      "lastClaimDate": "12/6/2026",
+      "streakDay": 6,
       "totalReacts": 1,
       "claimCountToday": 2,
-      "banned": false
+      "banned": false,
+      "isBanned": false,
+      "reactLimitDate": "12/6/2026",
+      "reactTodayCount": 0
     },
     "Ryn-985798": {
       "deviceId": "Ryn-985798",
