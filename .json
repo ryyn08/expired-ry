@@ -20,7 +20,10 @@
       "coins": 4,
       "lastClaimDate": "11/6/2026",
       "streakDay": 2,
-      "totalReacts": 0
+      "totalReacts": 0,
+      "isBanned": false,
+      "reactLimitDate": "12/6/2026",
+      "reactTodayCount": 0
     },
     "Ryn-996516": {
       "deviceId": "Ryn-996516",
@@ -28,10 +31,11 @@
       "coins": 105,
       "lastClaimDate": "11/6/2026",
       "streakDay": 5,
-      "totalReacts": 7,
+      "totalReacts": 8,
       "isBanned": false,
       "claimCountToday": 2,
-      "banned": false
+      "banned": false,
+      "lastNotificationText": "React anda berhasil di proses silahkan cek pesan saluran tersebut"
     },
     "Ryn-552914": {
       "deviceId": "Ryn-552914",
@@ -56,7 +60,7 @@
       "deviceId": "Ryn-996516",
       "url": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114 ",
       "emoji": "🗿😂😭",
-      "status": "Proses",
+      "status": "Berhasil",
       "timestamp": "23.45"
     }
   ]
