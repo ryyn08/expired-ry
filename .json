@@ -17,7 +17,7 @@
     "Ryn-985798": {
       "deviceId": "Ryn-985798",
       "ip": "103.158.252.54",
-      "coins": 4,
+      "coins": 3,
       "lastClaimDate": "11/6/2026",
       "streakDay": 2,
       "totalReacts": 0,
@@ -25,7 +25,7 @@
       "reactLimitDate": "12/6/2026",
       "reactTodayCount": 0,
       "lastReactDate": "12/6/2026",
-      "dailyReactCount": 0
+      "dailyReactCount": 1
     },
     "Ryn-996516": {
       "deviceId": "Ryn-996516",
@@ -62,6 +62,14 @@
       "emoji": "😂,😭,🗿",
       "status": "Berhasil",
       "timestamp": "00.37"
+    },
+    {
+      "requestId": "REQ-602174",
+      "deviceId": "Ryn-985798",
+      "url": "https",
+      "emoji": "🗿",
+      "status": "Proses",
+      "timestamp": "11.37"
     }
   ]
 }
