@@ -555,7 +555,7 @@
   "6285122932475": {
     "nama": "Ara bau",
     "umur": "16",
-    "limit": 50,
+    "limit": "∞",
     "tanggalDaftar": "13/06/2026",
     "jamDaftar": "20:20"
   }
