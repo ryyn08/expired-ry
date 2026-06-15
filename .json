@@ -70,6 +70,17 @@
       "isBanned": false,
       "todayReactCount": 0,
       "lastReactDate": "15/6/2026"
+    },
+    "Ryn-650070": {
+      "deviceId": "Ryn-650070",
+      "ip": "103.158.252.54",
+      "coins": 3,
+      "lastClaimDate": "",
+      "streakDay": 1,
+      "totalReacts": 0,
+      "isBanned": false,
+      "todayReactCount": 0,
+      "lastReactDate": "15/6/2026"
     }
   },
   "reactRequests": [
