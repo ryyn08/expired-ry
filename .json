@@ -15,7 +15,7 @@
       "reactTodayCount": 0,
       "dailyReactCount": 0,
       "lastResetDate": "15/6/2026",
-      "lastReactDate": "15/6/2026",
+      "lastReactDate": "16/6/2026",
       "todayReactCount": 0
     },
     "Ryn-985798": {
@@ -28,7 +28,7 @@
       "isBanned": false,
       "reactLimitDate": "12/6/2026",
       "reactTodayCount": 0,
-      "lastReactDate": "15/6/2026",
+      "lastReactDate": "16/6/2026",
       "dailyReactCount": 1,
       "todayReactCount": 0
     },
@@ -45,10 +45,11 @@
       "lastNotificationText": "",
       "reactLimitDate": "",
       "reactTodayCount": 0,
-      "lastReactDate": "15/6/2026",
+      "lastReactDate": "16/6/2026",
       "dailyReactCount": 1,
       "pendingTfAmount": 0,
-      "pendingAccTrigger": false
+      "pendingAccTrigger": false,
+      "todayReactCount": 0
     },
     "Ryn-552914": {
       "deviceId": "Ryn-552914",
@@ -57,7 +58,7 @@
       "lastClaimDate": "12/6/2026",
       "streakDay": 3,
       "totalReacts": 0,
-      "lastReactDate": "15/6/2026",
+      "lastReactDate": "16/6/2026",
       "todayReactCount": 0
     },
     "Ryn-776815": {
@@ -68,8 +69,8 @@
       "streakDay": 1,
       "totalReacts": 0,
       "isBanned": false,
-      "todayReactCount": 1,
-      "lastReactDate": "15/6/2026"
+      "todayReactCount": 0,
+      "lastReactDate": "16/6/2026"
     },
     "Ryn-650070": {
       "deviceId": "Ryn-650070",
@@ -80,7 +81,7 @@
       "totalReacts": 0,
       "isBanned": false,
       "todayReactCount": 0,
-      "lastReactDate": "15/6/2026"
+      "lastReactDate": "16/6/2026"
     }
   },
   "reactRequests": [
