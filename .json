@@ -98,12 +98,17 @@
     "Ryn-745688": {
       "deviceId": "Ryn-745688",
       "ip": "103.158.252.54",
-      "coins": 2,
+      "coins": 3,
       "totalReacts": 1,
       "isBanned": false,
       "dailyLimitCount": 1,
       "lastLimitResetTimestamp": 1781543709889,
-      "alertNotificationQueue": [],
+      "alertNotificationQueue": [
+        {
+          "title": "Transfer Koin Diterima!",
+          "message": "Admin telah mentransfer 1 koin ke akun device Anda."
+        }
+      ],
       "lastReactDate": "16/6/2026",
       "todayReactCount": 0
     },
