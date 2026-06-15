@@ -105,7 +105,13 @@
       "timestamp": "23.43"
     }
   ],
-  "redeemCodes": {},
+  "redeemCodes": {
+    "RY1": {
+      "coinReward": 1,
+      "maxClaims": 1,
+      "claimedUsers": []
+    }
+  },
   "marqueeText": "Server sedang berjalan normal - Nikmati Layanan RYYN REACTION!",
   "activeAlerts": {
     "Ryn-985798": [
