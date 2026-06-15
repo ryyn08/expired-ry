@@ -116,9 +116,26 @@
       "dailyLimitCount": 2,
       "lastLimitResetTimestamp": 1781543751453,
       "alertNotificationQueue": []
+    },
+    "Ryn-997784": {
+      "id": "Ryn-997784",
+      "ip": "103.158.252.54",
+      "coins": 4,
+      "totalReacted": 1,
+      "dailyLimit": 1,
+      "lastActiveTimestamp": 1781552102031,
+      "isBanned": false
     }
   },
   "reactRequests": [
+    {
+      "id": "REQ-7999",
+      "deviceId": "Ryn-997784",
+      "url": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114",
+      "emoji": "🗿",
+      "status": "Processing",
+      "timestamp": 1781552102509
+    },
     {
       "requestId": "REQ-775576",
       "deviceId": "Ryn-745688",
