@@ -4,7 +4,7 @@
     "Ryn-506673": {
       "deviceId": "Ryn-506673",
       "ip": "103.158.252.54",
-      "coins": 10,
+      "coins": 9,
       "lastClaimDate": "12/6/2026",
       "streakDay": 6,
       "totalReacts": 1,
@@ -16,7 +16,8 @@
       "dailyReactCount": 0,
       "lastResetDate": "15/6/2026",
       "lastReactDate": "16/6/2026",
-      "todayReactCount": 0
+      "todayReactCount": 0,
+      "dailyLimitCount": null
     },
     "Ryn-985798": {
       "deviceId": "Ryn-985798",
@@ -103,6 +104,14 @@
       "emoji": "🗿",
       "status": "Proses",
       "timestamp": "23.43"
+    },
+    {
+      "requestId": "REQ-960391",
+      "deviceId": "Ryn-506673",
+      "url": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114 ",
+      "emoji": "👣",
+      "status": "Proses",
+      "timestamp": "00.13"
     }
   ],
   "redeemCodes": {
@@ -129,5 +138,6 @@
       }
     ],
     "Ryn-776815": []
-  }
+  },
+  "vouchers": {}
 }
