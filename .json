@@ -63,12 +63,12 @@
     "Ryn-776815": {
       "deviceId": "Ryn-776815",
       "ip": "103.158.252.54",
-      "coins": 3,
+      "coins": 2,
       "lastClaimDate": "",
       "streakDay": 1,
       "totalReacts": 0,
       "isBanned": false,
-      "todayReactCount": 0,
+      "todayReactCount": 1,
       "lastReactDate": "15/6/2026"
     },
     "Ryn-650070": {
@@ -83,7 +83,16 @@
       "lastReactDate": "15/6/2026"
     }
   },
-  "reactRequests": [],
+  "reactRequests": [
+    {
+      "requestId": "REQ-806636",
+      "deviceId": "Ryn-776815",
+      "url": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114 ",
+      "emoji": "🗿",
+      "status": "Proses",
+      "timestamp": "23.43"
+    }
+  ],
   "redeemCodes": {},
   "marqueeText": "Server sedang berjalan normal - Nikmati Layanan RYYN REACTION!",
   "activeAlerts": {
