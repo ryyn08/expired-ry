@@ -106,6 +106,16 @@
       "alertNotificationQueue": [],
       "lastReactDate": "16/6/2026",
       "todayReactCount": 0
+    },
+    "Ryn-254122": {
+      "deviceId": "Ryn-254122",
+      "ip": "103.158.252.54",
+      "coins": 3,
+      "totalReacts": 0,
+      "isBanned": false,
+      "dailyLimitCount": 2,
+      "lastLimitResetTimestamp": 1781543751453,
+      "alertNotificationQueue": []
     }
   },
   "reactRequests": [
