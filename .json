@@ -153,5 +153,11 @@
     ],
     "Ryn-776815": []
   },
-  "vouchers": {}
+  "vouchers": {
+    "RY": {
+      "coinValue": 1,
+      "maxUsers": 1,
+      "claimedUsers": []
+    }
+  }
 }
