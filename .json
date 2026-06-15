@@ -90,7 +90,9 @@
       "lastClaimDate": "",
       "totalReacts": 0,
       "dailyReactCount": 0,
-      "isBanned": false
+      "isBanned": false,
+      "lastReactDate": "16/6/2026",
+      "todayReactCount": 0
     }
   },
   "reactRequests": [
