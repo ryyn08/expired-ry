@@ -98,10 +98,10 @@
     "Ryn-745688": {
       "deviceId": "Ryn-745688",
       "ip": "103.158.252.54",
-      "coins": 3,
+      "coins": 2,
       "totalReacts": 0,
       "isBanned": false,
-      "dailyLimitCount": 2,
+      "dailyLimitCount": 1,
       "lastLimitResetTimestamp": 1781543709889,
       "alertNotificationQueue": [],
       "lastReactDate": "16/6/2026",
@@ -134,6 +134,14 @@
       "emoji": "👣",
       "status": "Proses",
       "timestamp": "00.13"
+    },
+    {
+      "requestId": "REQ-775576",
+      "deviceId": "Ryn-745688",
+      "url": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114 ",
+      "emoji": "🫩",
+      "status": "Proses",
+      "timestamp": "00.18"
     }
   ],
   "redeemCodes": {
