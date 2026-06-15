@@ -98,7 +98,7 @@
     "Ryn-745688": {
       "deviceId": "Ryn-745688",
       "ip": "103.158.252.54",
-      "coins": 3,
+      "coins": 4,
       "totalReacts": 1,
       "isBanned": false,
       "dailyLimitCount": 1,
@@ -157,7 +157,9 @@
     "RY": {
       "coinValue": 1,
       "maxUsers": 1,
-      "claimedUsers": []
+      "claimedUsers": [
+        "Ryn-745688"
+      ]
     }
   }
 }
