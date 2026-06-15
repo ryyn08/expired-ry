@@ -103,12 +103,7 @@
       "isBanned": false,
       "dailyLimitCount": 1,
       "lastLimitResetTimestamp": 1781543709889,
-      "alertNotificationQueue": [
-        {
-          "title": "Transfer Koin Diterima!",
-          "message": "Admin telah mentransfer 1 koin ke akun device Anda."
-        }
-      ],
+      "alertNotificationQueue": [],
       "lastReactDate": "16/6/2026",
       "todayReactCount": 0
     },
