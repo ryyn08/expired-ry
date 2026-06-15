@@ -14,7 +14,9 @@
       "reactLimitDate": "12/6/2026",
       "reactTodayCount": 0,
       "dailyReactCount": 0,
-      "lastResetDate": "15/6/2026"
+      "lastResetDate": "15/6/2026",
+      "lastReactDate": "15/6/2026",
+      "todayReactCount": 0
     },
     "Ryn-985798": {
       "deviceId": "Ryn-985798",
@@ -26,8 +28,9 @@
       "isBanned": false,
       "reactLimitDate": "12/6/2026",
       "reactTodayCount": 0,
-      "lastReactDate": "12/6/2026",
-      "dailyReactCount": 1
+      "lastReactDate": "15/6/2026",
+      "dailyReactCount": 1,
+      "todayReactCount": 0
     },
     "Ryn-996516": {
       "deviceId": "Ryn-996516",
@@ -53,7 +56,9 @@
       "coins": 5,
       "lastClaimDate": "12/6/2026",
       "streakDay": 3,
-      "totalReacts": 0
+      "totalReacts": 0,
+      "lastReactDate": "15/6/2026",
+      "todayReactCount": 0
     }
   },
   "reactRequests": [
@@ -83,5 +88,6 @@
     }
   ],
   "redeemCodes": {},
-  "marqueeText": "Server sedang berjalan normal - Nikmati Layanan RYYN REACTION!"
+  "marqueeText": "Server sedang berjalan normal - Nikmati Layanan RYYN REACTION!",
+  "activeAlerts": {}
 }
