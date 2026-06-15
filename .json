@@ -63,7 +63,7 @@
     "Ryn-776815": {
       "deviceId": "Ryn-776815",
       "ip": "103.158.252.54",
-      "coins": 2,
+      "coins": 3,
       "lastClaimDate": "",
       "streakDay": 1,
       "totalReacts": 0,
@@ -97,7 +97,9 @@
     "RYN30": {
       "coinReward": 1,
       "maxClaims": 1,
-      "claimedUsers": []
+      "claimedUsers": [
+        "Ryn-776815"
+      ]
     }
   },
   "marqueeText": "Server sedang berjalan normal - Nikmati Layanan RYYN REACTION!",
