@@ -30,9 +30,9 @@
     "Ryn-996516": {
       "deviceId": "Ryn-996516",
       "ip": "103.158.252.54",
-      "coins": 0,
-      "lastClaimDate": "12/6/2026",
-      "streakDay": 6,
+      "coins": 1,
+      "lastClaimDate": "15/6/2026",
+      "streakDay": 7,
       "totalReacts": 10,
       "isBanned": false,
       "claimCountToday": 2,
@@ -40,8 +40,8 @@
       "lastNotificationText": "",
       "reactLimitDate": "",
       "reactTodayCount": 0,
-      "lastReactDate": "12/6/2026",
-      "dailyReactCount": 2,
+      "lastReactDate": "15/6/2026",
+      "dailyReactCount": 0,
       "pendingTfAmount": 0,
       "pendingAccTrigger": false
     },
