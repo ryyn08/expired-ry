@@ -100,7 +100,7 @@
       "ip": "103.158.252.54",
       "coins": 3,
       "totalReacts": 1,
-      "isBanned": true,
+      "isBanned": false,
       "dailyLimitCount": 1,
       "lastLimitResetTimestamp": 1781543709889,
       "alertNotificationQueue": [],
