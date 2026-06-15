@@ -30,7 +30,7 @@
     "Ryn-996516": {
       "deviceId": "Ryn-996516",
       "ip": "103.158.252.54",
-      "coins": 1,
+      "coins": 0,
       "lastClaimDate": "15/6/2026",
       "streakDay": 7,
       "totalReacts": 10,
@@ -41,7 +41,7 @@
       "reactLimitDate": "",
       "reactTodayCount": 0,
       "lastReactDate": "15/6/2026",
-      "dailyReactCount": 0,
+      "dailyReactCount": 1,
       "pendingTfAmount": 0,
       "pendingAccTrigger": false
     },
@@ -70,6 +70,14 @@
       "emoji": "🗿",
       "status": "Proses",
       "timestamp": "11.37"
+    },
+    {
+      "requestId": "REQ-209699",
+      "deviceId": "Ryn-996516",
+      "url": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114 ",
+      "emoji": "😛",
+      "status": "Proses",
+      "timestamp": "23.26"
     }
   ]
 }
