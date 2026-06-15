@@ -99,11 +99,16 @@
       "deviceId": "Ryn-745688",
       "ip": "103.158.252.54",
       "coins": 2,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "isBanned": false,
       "dailyLimitCount": 1,
       "lastLimitResetTimestamp": 1781543709889,
-      "alertNotificationQueue": [],
+      "alertNotificationQueue": [
+        {
+          "title": "React Berhasil Disetujui!",
+          "message": "React Anda berhasil diproses, silakan cek pesan saluran tersebut."
+        }
+      ],
       "lastReactDate": "16/6/2026",
       "todayReactCount": 0
     },
@@ -124,7 +129,7 @@
       "deviceId": "Ryn-745688",
       "url": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114 ",
       "emoji": "🫩",
-      "status": "Proses",
+      "status": "Berhasil",
       "timestamp": "00.18"
     }
   ],
