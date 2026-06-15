@@ -82,6 +82,15 @@
       "isBanned": false,
       "todayReactCount": 0,
       "lastReactDate": "16/6/2026"
+    },
+    "Ryn-455210": {
+      "deviceId": "Ryn-455210",
+      "ip": "103.158.252.54",
+      "coins": 5,
+      "lastClaimDate": "",
+      "totalReacts": 0,
+      "dailyReactCount": 0,
+      "isBanned": false
     }
   },
   "reactRequests": [
