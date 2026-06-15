@@ -38,7 +38,7 @@
       "coins": 0,
       "lastClaimDate": "15/6/2026",
       "streakDay": 7,
-      "totalReacts": 10,
+      "totalReacts": 11,
       "isBanned": false,
       "claimCountToday": 2,
       "banned": false,
@@ -105,7 +105,7 @@
       "deviceId": "Ryn-996516",
       "url": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114 ",
       "emoji": "😛",
-      "status": "Proses",
+      "status": "Berhasil",
       "timestamp": "23.26"
     }
   ],
@@ -113,6 +113,12 @@
   "marqueeText": "Server sedang berjalan normal - Nikmati Layanan RYYN REACTION!",
   "activeAlerts": {
     "Ryn-985798": [
+      {
+        "title": "REACT SUCCESS!",
+        "message": "React anda berhasil di proses silahkan cek pesan saluran tersebut"
+      }
+    ],
+    "Ryn-996516": [
       {
         "title": "REACT SUCCESS!",
         "message": "React anda berhasil di proses silahkan cek pesan saluran tersebut"
