@@ -153,13 +153,5 @@
     ],
     "Ryn-776815": []
   },
-  "vouchers": {
-    "RY": {
-      "coinValue": 1,
-      "maxUsers": 1,
-      "claimedUsers": [
-        "Ryn-745688"
-      ]
-    }
-  }
+  "vouchers": {}
 }
