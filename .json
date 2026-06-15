@@ -59,6 +59,17 @@
       "totalReacts": 0,
       "lastReactDate": "15/6/2026",
       "todayReactCount": 0
+    },
+    "Ryn-776815": {
+      "deviceId": "Ryn-776815",
+      "ip": "103.158.252.54",
+      "coins": 3,
+      "lastClaimDate": "",
+      "streakDay": 1,
+      "totalReacts": 0,
+      "isBanned": false,
+      "todayReactCount": 0,
+      "lastReactDate": "15/6/2026"
     }
   },
   "reactRequests": [
