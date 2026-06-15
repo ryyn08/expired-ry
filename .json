@@ -12,7 +12,9 @@
       "banned": false,
       "isBanned": false,
       "reactLimitDate": "12/6/2026",
-      "reactTodayCount": 0
+      "reactTodayCount": 0,
+      "dailyReactCount": 0,
+      "lastResetDate": "15/6/2026"
     },
     "Ryn-985798": {
       "deviceId": "Ryn-985798",
@@ -79,5 +81,7 @@
       "status": "Proses",
       "timestamp": "23.26"
     }
-  ]
+  ],
+  "redeemCodes": {},
+  "marqueeText": "Server sedang berjalan normal - Nikmati Layanan RYYN REACTION!"
 }
