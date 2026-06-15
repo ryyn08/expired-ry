@@ -103,12 +103,7 @@
       "isBanned": false,
       "dailyLimitCount": 1,
       "lastLimitResetTimestamp": 1781543709889,
-      "alertNotificationQueue": [
-        {
-          "title": "React Berhasil Disetujui!",
-          "message": "React Anda berhasil diproses, silakan cek pesan saluran tersebut."
-        }
-      ],
+      "alertNotificationQueue": [],
       "lastReactDate": "16/6/2026",
       "todayReactCount": 0
     },
