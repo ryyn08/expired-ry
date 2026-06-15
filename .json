@@ -90,7 +90,7 @@
       "lastClaimDate": "",
       "totalReacts": 0,
       "dailyReactCount": 0,
-      "isBanned": true,
+      "isBanned": false,
       "lastReactDate": "16/6/2026",
       "todayReactCount": 0
     }
