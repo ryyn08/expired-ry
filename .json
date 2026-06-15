@@ -63,7 +63,7 @@
     "Ryn-776815": {
       "deviceId": "Ryn-776815",
       "ip": "103.158.252.54",
-      "coins": 3,
+      "coins": 4,
       "lastClaimDate": "",
       "streakDay": 1,
       "totalReacts": 0,
@@ -106,6 +106,12 @@
       {
         "title": "REACT SUCCESS!",
         "message": "React anda berhasil di proses silahkan cek pesan saluran tersebut"
+      }
+    ],
+    "Ryn-776815": [
+      {
+        "title": "BONUS COIN MASUK!",
+        "message": "Admin telah mengirimkan koin bonus sebesar +1 Coin ke perangkat Anda!"
       }
     ]
   }
