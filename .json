@@ -67,7 +67,7 @@
       "lastClaimDate": "",
       "streakDay": 1,
       "totalReacts": 0,
-      "isBanned": true,
+      "isBanned": false,
       "todayReactCount": 1,
       "lastReactDate": "15/6/2026"
     },
