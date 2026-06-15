@@ -86,7 +86,7 @@
     "Ryn-455210": {
       "deviceId": "Ryn-455210",
       "ip": "103.158.252.54",
-      "coins": 5,
+      "coins": null,
       "lastClaimDate": "",
       "totalReacts": 0,
       "dailyReactCount": 0,
@@ -109,7 +109,9 @@
     "RY1": {
       "coinReward": 1,
       "maxClaims": 1,
-      "claimedUsers": []
+      "claimedUsers": [
+        "Ryn-455210"
+      ]
     }
   },
   "marqueeText": "Server sedang berjalan normal - Nikmati Layanan RYYN REACTION!",
