@@ -120,14 +120,22 @@
     "Ryn-997784": {
       "id": "Ryn-997784",
       "ip": "103.158.252.54",
-      "coins": 4,
-      "totalReacted": 1,
-      "dailyLimit": 1,
-      "lastActiveTimestamp": 1781552105999,
+      "coins": 3,
+      "totalReacted": 2,
+      "dailyLimit": 0,
+      "lastActiveTimestamp": 1781552117015,
       "isBanned": false
     }
   },
   "reactRequests": [
+    {
+      "id": "REQ-3350",
+      "deviceId": "Ryn-997784",
+      "url": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114",
+      "emoji": "🥰",
+      "status": "Processing",
+      "timestamp": 1781552117968
+    },
     {
       "id": "REQ-7999",
       "deviceId": "Ryn-997784",
