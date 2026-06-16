@@ -24,7 +24,9 @@
       "isBanned": false,
       "dailyLimitCount": 2,
       "lastLimitResetTimestamp": 1781628114298,
-      "alertNotificationQueue": []
+      "alertNotificationQueue": [],
+      "dailyLimit": 2,
+      "lastLimitResetDay": 16
     }
   },
   "reactRequests": [
