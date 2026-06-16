@@ -18,7 +18,9 @@
       "lastReactDate": "16/6/2026",
       "todayReactCount": 0,
       "dailyLimitCount": null,
-      "limit": 1
+      "limit": 1,
+      "dailyLimit": 2,
+      "lastLimitResetDay": 16
     },
     "Ryn-985798": {
       "deviceId": "Ryn-985798",
