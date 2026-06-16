@@ -139,6 +139,14 @@
       "lastActive": "16/6/2026",
       "ip": "103.158.252.54",
       "banned": false
+    },
+    "Ryn-728239": {
+      "coins": 10,
+      "limit": 2,
+      "totalReacted": 0,
+      "banned": false,
+      "lastActive": "2026-06-16T02:49:57.244Z",
+      "ip": "103.158.252.54"
     }
   },
   "reactRequests": [
