@@ -163,6 +163,14 @@
       "banned": false,
       "lastActive": "2026-06-16T03:00:02.376Z",
       "ip": "103.158.252.54"
+    },
+    "Ryn-685017": {
+      "coins": 10,
+      "limit": 2,
+      "totalReacted": 0,
+      "banned": false,
+      "lastActive": "2026-06-16T03:00:45.647Z",
+      "ip": "103.158.252.54"
     }
   },
   "reactRequests": [
