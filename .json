@@ -4,7 +4,7 @@
     "Ryn-506673": {
       "deviceId": "Ryn-506673",
       "ip": "103.158.252.54",
-      "coins": 9,
+      "coins": 7,
       "lastClaimDate": "12/6/2026",
       "streakDay": 6,
       "totalReacts": 1,
@@ -18,7 +18,7 @@
       "lastReactDate": "16/6/2026",
       "todayReactCount": 0,
       "dailyLimitCount": null,
-      "limit": 2
+      "limit": 1
     },
     "Ryn-985798": {
       "deviceId": "Ryn-985798",
@@ -243,6 +243,14 @@
       "emoji": "🥰",
       "status": "Pending",
       "timestamp": "16/6/2026, 21.24.27"
+    },
+    {
+      "requestId": "REQ-584472",
+      "deviceId": "Ryn-506673",
+      "targetUrl": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114",
+      "emoji": "🗿",
+      "status": "Pending",
+      "timestamp": "16/6/2026, 21.56.11"
     }
   ],
   "redeemCodes": {
