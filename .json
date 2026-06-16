@@ -9,14 +9,23 @@
       "banned": false
     },
     "Ryn-333441": {
-      "coins": 10,
-      "totalReacted": 0,
-      "dailyLimit": 2,
+      "coins": 8,
+      "totalReacted": 1,
+      "dailyLimit": 1,
       "lastLimitResetDay": 16,
       "ip": "103.158.252.54",
       "banned": false
     }
   },
-  "reactRequests": [],
+  "reactRequests": [
+    {
+      "deviceId": "Ryn-333441",
+      "url": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114",
+      "emoji": "🥰",
+      "status": "Proses",
+      "ip": "103.158.252.54",
+      "timestamp": 1781627468207
+    }
+  ],
   "vouchers": {}
 }
