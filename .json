@@ -283,7 +283,7 @@
       "requestId": "REQ-619015",
       "deviceId": "Ryn-616724",
       "targetUrl": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114",
-      "emoji": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ°",
+      "emoji": "ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°",
       "status": "Pending",
       "timestamp": "16/6/2026, 21.24.27"
     },
@@ -291,22 +291,22 @@
       "requestId": "REQ-584472",
       "deviceId": "Ryn-506673",
       "targetUrl": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114",
-      "emoji": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿",
+      "emoji": "ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿",
       "status": "Pending",
       "timestamp": "16/6/2026, 21.56.11"
     },
     {
       "deviceId": "Ryn-506673",
       "url": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114",
-      "emoji": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂ¥ÃÂÃÂ°",
-      "status": "Proses",
+      "emoji": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ°",
+      "status": "Gagal",
       "ip": "103.158.252.54",
       "timestamp": 1781625620290
     },
     {
       "deviceId": "Ryn-333441",
       "url": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114",
-      "emoji": "ð¥°",
+      "emoji": "Ã°ÂÂ¥Â°",
       "status": "Sukses",
       "ip": "103.158.252.54",
       "timestamp": 1781625803667
