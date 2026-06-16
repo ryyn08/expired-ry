@@ -29,7 +29,7 @@
       "lastLimitResetDay": 16
     },
     "Ryn-521882": {
-      "coins": 10,
+      "coins": 11,
       "totalReacted": 0,
       "dailyLimit": 2,
       "lastLimitResetDay": 16,
@@ -50,7 +50,9 @@
     "RY": {
       "coins": 1,
       "limit": 1,
-      "claimedBy": []
+      "claimedBy": [
+        "Ryn-521882"
+      ]
     }
   }
 }
