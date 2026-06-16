@@ -9,7 +9,7 @@
       "banned": false
     },
     "Ryn-333441": {
-      "coins": 10,
+      "coins": 11,
       "totalReacted": 1,
       "dailyLimit": 1,
       "lastLimitResetDay": 16,
@@ -21,7 +21,7 @@
     {
       "deviceId": "Ryn-333441",
       "url": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114",
-      "emoji": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂ¥ÃÂÃÂ°",
+      "emoji": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ°",
       "status": "Sukses",
       "ip": "103.158.252.54",
       "timestamp": 1781627468207
@@ -31,7 +31,9 @@
     "RY": {
       "coins": 1,
       "limit": 1,
-      "claimedBy": []
+      "claimedBy": [
+        "Ryn-333441"
+      ]
     }
   }
 }
