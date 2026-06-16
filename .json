@@ -202,6 +202,13 @@
       "lastResetDate": "Tue Jun 16 2026",
       "banned": false,
       "ip": "103.158.252.54"
+    },
+    "Ryn-838322": {
+      "coins": 10,
+      "limit": 2,
+      "lastResetDate": "Tue Jun 16 2026",
+      "banned": false,
+      "ip": "103.158.252.54"
     }
   },
   "reactRequests": [
