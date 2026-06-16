@@ -21,19 +21,11 @@
     {
       "deviceId": "Ryn-333441",
       "url": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114",
-      "emoji": "🤤",
+      "emoji": "ð¤¤",
       "status": "Sukses",
       "ip": "103.158.252.54",
       "timestamp": 1781627468207
     }
   ],
-  "vouchers": {
-    "RY": {
-      "coins": 1,
-      "limit": 1,
-      "claimedBy": [
-        "Ryn-333441"
-      ]
-    }
-  }
+  "vouchers": {}
 }
