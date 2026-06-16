@@ -46,5 +46,11 @@
     }
   },
   "reactRequests": [],
-  "vouchers": {}
+  "vouchers": {
+    "RY": {
+      "coins": 1,
+      "limit": 1,
+      "claimedBy": []
+    }
+  }
 }
