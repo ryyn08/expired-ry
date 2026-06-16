@@ -15,6 +15,16 @@
       "lastLimitResetDay": 16,
       "ip": "103.158.252.54",
       "banned": false
+    },
+    "Ryn-506673": {
+      "deviceId": "Ryn-506673",
+      "ip": "103.158.252.54",
+      "coins": 3,
+      "totalReacts": 0,
+      "isBanned": false,
+      "dailyLimitCount": 2,
+      "lastLimitResetTimestamp": 1781628114298,
+      "alertNotificationQueue": []
     }
   },
   "reactRequests": [
