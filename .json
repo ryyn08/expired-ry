@@ -170,7 +170,9 @@
       "totalReacted": 0,
       "banned": false,
       "lastActive": "2026-06-16T03:00:45.647Z",
-      "ip": "103.158.252.54"
+      "ip": "103.158.252.54",
+      "lastDailyReset": "Tue Jun 16 2026",
+      "limitToday": 2
     }
   },
   "reactRequests": [
@@ -178,7 +180,7 @@
       "id": "REQ-3350",
       "deviceId": "Ryn-997784",
       "url": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114",
-      "emoji": "Ã°ÂÂ¥Â°",
+      "emoji": "ÃÂ°ÃÂÃÂ¥ÃÂ°",
       "status": "Processing",
       "timestamp": 1781552117968
     },
@@ -186,7 +188,7 @@
       "id": "REQ-7999",
       "deviceId": "Ryn-997784",
       "url": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114",
-      "emoji": "Ã°ÂÂÂ¿",
+      "emoji": "ÃÂ°ÃÂÃÂÃÂ¿",
       "status": "Processing",
       "timestamp": 1781552102509
     },
@@ -194,7 +196,7 @@
       "requestId": "REQ-775576",
       "deviceId": "Ryn-745688",
       "url": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114 ",
-      "emoji": "Ã°ÂÂ«Â©",
+      "emoji": "ÃÂ°ÃÂÃÂ«ÃÂ©",
       "status": "Berhasil",
       "timestamp": "00.18"
     }
