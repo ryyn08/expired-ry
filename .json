@@ -35,7 +35,7 @@
       "dailyLimit": 1,
       "lastLimitResetDay": 17,
       "ip": "103.158.252.54",
-      "banned": false
+      "banned": true
     },
     "Ryn-493623": {
       "coins": 10,
