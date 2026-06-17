@@ -25,8 +25,8 @@
       "dailyLimitCount": 2,
       "lastLimitResetTimestamp": 1781628114298,
       "alertNotificationQueue": [],
-      "dailyLimit": 1,
-      "lastLimitResetDay": 17,
+      "dailyLimit": 2,
+      "lastLimitResetDay": 18,
       "totalReacted": 1
     },
     "Ryn-521882": {
