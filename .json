@@ -14,7 +14,7 @@
       "dailyLimit": 1,
       "lastLimitResetDay": 16,
       "ip": "103.158.252.54",
-      "banned": false
+      "banned": true
     },
     "Ryn-506673": {
       "deviceId": "Ryn-506673",
