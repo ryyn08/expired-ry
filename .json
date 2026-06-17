@@ -19,15 +19,15 @@
     "Ryn-506673": {
       "deviceId": "Ryn-506673",
       "ip": "103.158.252.54",
-      "coins": 1,
+      "coins": 0,
       "totalReacts": 0,
       "isBanned": false,
       "dailyLimitCount": 2,
       "lastLimitResetTimestamp": 1781628114298,
       "alertNotificationQueue": [],
-      "dailyLimit": 2,
+      "dailyLimit": 1,
       "lastLimitResetDay": 17,
-      "totalReacted": null
+      "totalReacted": 1
     },
     "Ryn-521882": {
       "coins": 10,
@@ -94,6 +94,15 @@
       "banned": false
     }
   },
-  "reactRequests": [],
+  "reactRequests": [
+    {
+      "deviceId": "Ryn-506673",
+      "url": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114",
+      "emoji": "🗿",
+      "status": "Proses",
+      "ip": "103.158.252.54",
+      "timestamp": 1781703221324
+    }
+  ],
   "vouchers": {}
 }
