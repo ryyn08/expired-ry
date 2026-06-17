@@ -60,6 +60,14 @@
       "lastLimitResetDay": 17,
       "ip": "103.158.252.54",
       "banned": false
+    },
+    "Ryn-923043": {
+      "coins": 10,
+      "totalReacted": 0,
+      "dailyLimit": 2,
+      "lastLimitResetDay": 17,
+      "ip": "103.158.252.54",
+      "banned": false
     }
   },
   "reactRequests": [],
