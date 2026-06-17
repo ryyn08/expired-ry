@@ -110,9 +110,9 @@
       "banned": false
     },
     "Ryn-165611": {
-      "coins": 9,
-      "totalReacted": 1,
-      "dailyLimit": 1,
+      "coins": 8,
+      "totalReacted": 2,
+      "dailyLimit": 0,
       "lastLimitResetDay": 17,
       "ip": "103.158.252.54",
       "banned": false
@@ -134,6 +134,14 @@
       "status": "Gagal",
       "ip": "103.158.252.54",
       "timestamp": 1781707825542
+    },
+    {
+      "deviceId": "Ryn-165611",
+      "url": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114",
+      "emoji": "🥰",
+      "status": "Proses",
+      "ip": "103.158.252.54",
+      "timestamp": 1781707946028
     }
   ],
   "vouchers": {}
