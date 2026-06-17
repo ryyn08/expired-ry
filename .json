@@ -112,8 +112,8 @@
     "Ryn-165611": {
       "coins": 8,
       "totalReacted": 2,
-      "dailyLimit": 0,
-      "lastLimitResetDay": 17,
+      "dailyLimit": 2,
+      "lastLimitResetDay": 18,
       "ip": "103.158.252.54",
       "banned": false
     },
