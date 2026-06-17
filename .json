@@ -151,9 +151,9 @@
       "lastTransferredCoinEvent": ""
     },
     "Ryn-286793": {
-      "coins": 10,
-      "totalReacted": 0,
-      "dailyLimit": 2,
+      "coins": 9,
+      "totalReacted": 1,
+      "dailyLimit": 1,
       "lastLimitResetDay": 18,
       "ip": "103.158.252.54",
       "banned": false,
@@ -176,6 +176,14 @@
       "status": "Gagal",
       "ip": "103.158.252.54",
       "timestamp": 1781720241004
+    },
+    {
+      "deviceId": "Ryn-286793",
+      "url": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114",
+      "emoji": "🥰",
+      "status": "Proses",
+      "ip": "103.158.252.54",
+      "timestamp": 1781720909098
     }
   ],
   "vouchers": {
