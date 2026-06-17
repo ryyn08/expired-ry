@@ -110,9 +110,9 @@
       "banned": false
     },
     "Ryn-165611": {
-      "coins": 8,
-      "totalReacted": 2,
-      "dailyLimit": 2,
+      "coins": 7,
+      "totalReacted": 3,
+      "dailyLimit": 1,
       "lastLimitResetDay": 18,
       "ip": "103.158.252.54",
       "banned": false
@@ -134,6 +134,15 @@
       "banned": false
     }
   },
-  "reactRequests": [],
+  "reactRequests": [
+    {
+      "deviceId": "Ryn-165611",
+      "url": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114",
+      "emoji": "🥰",
+      "status": "Proses",
+      "ip": "103.158.252.54",
+      "timestamp": 1781719724742
+    }
+  ],
   "vouchers": {}
 }
