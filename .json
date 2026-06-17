@@ -186,5 +186,11 @@
       "timestamp": 1781720909098
     }
   ],
-  "vouchers": {}
+  "vouchers": {
+    "RY": {
+      "coins": 1,
+      "limit": 1,
+      "claimedBy": []
+    }
+  }
 }
