@@ -78,15 +78,6 @@
       "banned": false
     }
   },
-  "reactRequests": [
-    {
-      "deviceId": "Ryn-506673",
-      "url": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114",
-      "emoji": "🥰",
-      "status": "Proses",
-      "ip": "103.158.252.54",
-      "timestamp": 1781700640822
-    }
-  ],
+  "reactRequests": [],
   "vouchers": {}
 }
