@@ -110,7 +110,7 @@
       "banned": false
     },
     "Ryn-165611": {
-      "coins": 7,
+      "coins": 8,
       "totalReacted": 3,
       "dailyLimit": 1,
       "lastLimitResetDay": 18,
@@ -148,7 +148,9 @@
     "RY": {
       "coins": 1,
       "limit": 1,
-      "claimedBy": []
+      "claimedBy": [
+        "Ryn-165611"
+      ]
     }
   }
 }
