@@ -54,9 +54,9 @@
       "banned": false
     },
     "Ryn-696124": {
-      "coins": 10,
-      "totalReacted": 0,
-      "dailyLimit": 2,
+      "coins": 8,
+      "totalReacted": 1,
+      "dailyLimit": 1,
       "lastLimitResetDay": 17,
       "ip": "103.158.252.54",
       "banned": false
