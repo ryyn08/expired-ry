@@ -30,9 +30,9 @@
       "totalReacted": null
     },
     "Ryn-521882": {
-      "coins": 12,
-      "totalReacted": 0,
-      "dailyLimit": 2,
+      "coins": 10,
+      "totalReacted": 1,
+      "dailyLimit": 1,
       "lastLimitResetDay": 17,
       "ip": "103.158.252.54",
       "banned": false
