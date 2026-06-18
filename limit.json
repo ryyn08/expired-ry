@@ -614,5 +614,12 @@
     "limit": 48,
     "tanggalDaftar": "16/06/2026",
     "jamDaftar": "15:22"
+  },
+  "6285716848531": {
+    "nama": "user08",
+    "umur": "17",
+    "limit": 50,
+    "tanggalDaftar": "18/06/2026",
+    "jamDaftar": "20:16"
   }
 }
