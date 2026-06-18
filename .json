@@ -178,15 +178,6 @@
       "lastTransferredCoinEvent": ""
     }
   },
-  "reactRequests": [
-    {
-      "deviceId": "Ryn-165611",
-      "url": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114",
-      "emoji": "🥰",
-      "status": "Gagal",
-      "ip": "103.158.252.54",
-      "timestamp": 1781719724742
-    }
-  ],
+  "reactRequests": [],
   "vouchers": {}
 }
