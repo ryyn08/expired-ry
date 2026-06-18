@@ -190,7 +190,7 @@
       "coins": 10,
       "totalReacted": 0,
       "dailyLimit": 2,
-      "lastLimitResetDay": 18,
+      "lastLimitResetDay": 19,
       "ip": "103.158.252.54",
       "banned": false,
       "lastTransferredCoinEvent": ""
