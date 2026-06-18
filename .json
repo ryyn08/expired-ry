@@ -169,7 +169,7 @@
       "lastTransferredCoinEvent": ""
     },
     "Ryn-915446": {
-      "coins": 9,
+      "coins": 10,
       "totalReacted": 2,
       "dailyLimit": 1,
       "lastLimitResetDay": 18,
@@ -183,7 +183,9 @@
     "RB": {
       "coins": 1,
       "limit": 1,
-      "claimedBy": []
+      "claimedBy": [
+        "Ryn-915446"
+      ]
     }
   }
 }
