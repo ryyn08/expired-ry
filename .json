@@ -179,13 +179,5 @@
     }
   },
   "reactRequests": [],
-  "vouchers": {
-    "RB": {
-      "coins": 1,
-      "limit": 1,
-      "claimedBy": [
-        "Ryn-915446"
-      ]
-    }
-  }
+  "vouchers": {}
 }
