@@ -174,7 +174,7 @@
       "dailyLimit": 1,
       "lastLimitResetDay": 18,
       "ip": "103.158.252.54",
-      "banned": false,
+      "banned": true,
       "lastTransferredCoinEvent": ""
     }
   },
