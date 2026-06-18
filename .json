@@ -185,6 +185,15 @@
       "ip": "103.158.252.54",
       "banned": false,
       "lastTransferredCoinEvent": ""
+    },
+    "Ryn-329092": {
+      "coins": 10,
+      "totalReacted": 0,
+      "dailyLimit": 2,
+      "lastLimitResetDay": 18,
+      "ip": "103.158.252.54",
+      "banned": false,
+      "lastTransferredCoinEvent": ""
     }
   },
   "reactRequests": [],
