@@ -210,15 +210,6 @@
       "history": []
     }
   },
-  "reactRequests": [
-    {
-      "deviceId": "Ryn-757510",
-      "url": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114",
-      "emoji": "🥰,😂,😭",
-      "status": "Gagal",
-      "ip": "103.158.252.54",
-      "timestamp": 1781757286952
-    }
-  ],
+  "reactRequests": [],
   "vouchers": {}
 }
