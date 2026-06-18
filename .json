@@ -194,14 +194,6 @@
       "status": "Gagal",
       "ip": "103.158.252.54",
       "timestamp": 1781720241004
-    },
-    {
-      "deviceId": "Ryn-286793",
-      "url": "https://whatsapp.com/channel/0029VbCctvI7IUYc6lqIFx2M/114",
-      "emoji": "🥰",
-      "status": "Sukses",
-      "ip": "103.158.252.54",
-      "timestamp": 1781720909098
     }
   ],
   "vouchers": {}
