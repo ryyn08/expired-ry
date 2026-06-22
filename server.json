@@ -1,5 +1,5 @@
 {
-  "sha": "e2657928ce4b3e0a24498ed6373f9fe1400b716a",
+  "sha": "5417e7c1f8c2a0aa4c0e087cc221251311294ab9",
   "servers": {
     "1": {
       "id": 1,
@@ -16,8 +16,8 @@
       "id": 2,
       "name": "Singapore",
       "ip": "98.142.250.14",
-      "status": "disconnect",
-      "ms": "lockdown",
+      "status": "connect",
+      "ms": "55ms",
       "icon": "fa-globe-asia",
       "killed": false,
       "cpu": "8%",
@@ -39,55 +39,55 @@
       "name": "India",
       "ip": "172.67.162.58",
       "status": "connect",
-      "ms": "69ms",
+      "ms": "66ms",
       "icon": "fa-globe-americas",
       "killed": false,
-      "cpu": "7%",
-      "ram": "55%"
+      "cpu": "17%",
+      "ram": "57%"
     },
     "5": {
       "id": 5,
       "name": "Hong Kong",
       "ip": "104.21.82.187",
       "status": "connect",
-      "ms": "70ms",
+      "ms": "76ms",
       "icon": "fa-globe",
       "killed": false,
-      "cpu": "39%",
-      "ram": "35%"
+      "cpu": "14%",
+      "ram": "47%"
     },
     "6": {
       "id": 6,
       "name": "Poland",
       "ip": "188.114.96.11",
       "status": "connect",
-      "ms": "31ms",
+      "ms": "47ms",
       "icon": "fa-globe",
       "killed": false,
-      "cpu": "5%",
-      "ram": "49%"
+      "cpu": "23%",
+      "ram": "60%"
     },
     "7": {
       "id": 7,
       "name": "Switzerland",
       "ip": "188.114.96.12",
       "status": "connect",
-      "ms": "81ms",
+      "ms": "78ms",
       "icon": "fa-globe",
       "killed": false,
-      "cpu": "49%",
-      "ram": "43%"
+      "cpu": "28%",
+      "ram": "47%"
     },
     "8": {
       "id": 8,
       "name": "Turkey",
       "ip": "188.114.97.7",
       "status": "connect",
-      "ms": "111ms",
+      "ms": "124ms",
       "icon": "fa-globe",
       "killed": false,
-      "cpu": "33%",
-      "ram": "34%"
+      "cpu": "24%",
+      "ram": "63%"
     },
     "9": {
       "id": 9,
@@ -105,11 +105,11 @@
       "name": "Brazil",
       "ip": "172.67.162.58",
       "status": "connect",
-      "ms": "62ms",
+      "ms": "53ms",
       "icon": "fa-globe",
       "killed": false,
-      "cpu": "43%",
-      "ram": "30%"
+      "cpu": "18%",
+      "ram": "56%"
     }
   }
 }
