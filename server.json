@@ -1,5 +1,5 @@
 {
-  "sha": "03a560a372d7d5a6c94183deaf84a0891a5d08b0",
+  "sha": "a55c1347e75f62fa6c008ffc2909aec7d0de5b0f",
   "servers": {
     "1": {
       "id": 1,
@@ -29,8 +29,8 @@
       "id": 4,
       "name": "India",
       "ip": "172.67.162.58",
-      "status": "disconnect",
-      "ms": "lockdown",
+      "status": "connect",
+      "ms": "127ms",
       "icon": "fa-landmark"
     }
   }
