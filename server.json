@@ -1,14 +1,14 @@
 {
-  "sha": "2c3682d24ac1afb2d0e4868e458c888f99097f39",
+  "sha": "b7bf882566a53213e997407dce890fa6d67d16d6",
   "servers": {
     "1": {
       "id": 1,
       "name": "Canada",
       "ip": "98.142.250.14",
-      "status": "connect",
-      "ms": "103ms",
+      "status": "disconnect",
+      "ms": "lockdown",
       "icon": "fa-globe-americas",
-      "killed": false,
+      "killed": true,
       "cpu": "37%",
       "ram": "44%"
     },
