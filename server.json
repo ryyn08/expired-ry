@@ -1,5 +1,5 @@
 {
-  "sha": "bb6ba5642aa822ceb4d251b4e172c06b88473f6c",
+  "sha": "ec3dcb54ed035122aff2fb58c459cabb3cac1209",
   "servers": {
     "1": {
       "id": 1,
@@ -14,7 +14,7 @@
       "name": "Singapore",
       "ip": "98.142.250.14",
       "status": "connect",
-      "ms": "13ms",
+      "ms": "21ms",
       "icon": "fa-globe-asia"
     },
     "3": {
@@ -22,7 +22,7 @@
       "name": "USA",
       "ip": "98.142.250.14",
       "status": "connect",
-      "ms": "45ms",
+      "ms": "48ms",
       "icon": "fa-flag-usa"
     },
     "4": {
@@ -30,7 +30,7 @@
       "name": "India",
       "ip": "172.67.162.58",
       "status": "connect",
-      "ms": "31ms",
+      "ms": "30ms",
       "icon": "fa-landmark"
     }
   }
