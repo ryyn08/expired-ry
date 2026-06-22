@@ -1,12 +1,12 @@
 {
-  "sha": "49d5bd42bcee6222bfb44537b4fb1314d6e966fc",
+  "sha": "d9a502e7b8c9329bd695190b3ec0aa823a98b604",
   "servers": {
     "1": {
       "id": 1,
       "name": "Canada",
       "ip": "98.142.250.14",
       "status": "connect",
-      "ms": "39ms",
+      "ms": "41ms",
       "icon": "fa-globe-americas"
     },
     "2": {
@@ -14,15 +14,15 @@
       "name": "Singapore",
       "ip": "98.142.250.14",
       "status": "connect",
-      "ms": "43ms",
+      "ms": "48ms",
       "icon": "fa-globe-asia"
     },
     "3": {
       "id": 3,
       "name": "USA",
       "ip": "98.142.250.14",
-      "status": "disconnect",
-      "ms": "lockdown",
+      "status": "connect",
+      "ms": "11ms",
       "icon": "fa-flag-usa"
     },
     "4": {
