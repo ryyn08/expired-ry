@@ -1,5 +1,5 @@
 {
-  "sha": "0cd6c4b9847a227aef57d669c0912a08024e55f7",
+  "sha": "7977d7a768ec0b04415dfdd6f4123c28c46de12c",
   "servers": {
     "1": {
       "id": 1,
@@ -21,8 +21,8 @@
       "id": 3,
       "name": "USA",
       "ip": "98.142.250.14",
-      "status": "connect",
-      "ms": "24ms",
+      "status": "disconnect",
+      "ms": "lockdown",
       "icon": "fa-flag-usa"
     },
     "4": {
