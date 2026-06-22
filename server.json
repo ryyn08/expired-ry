@@ -1,5 +1,5 @@
 {
-  "sha": "69f2586a303613435608b69dc1f7d7ba210ad361",
+  "sha": "7d7b4abea1e988c8ba8374b33335c9ea8e84c2d4",
   "servers": {
     "1": {
       "id": 1,
@@ -94,22 +94,22 @@
       "name": "Austria",
       "ip": "188.114.96.11",
       "status": "connect",
-      "ms": "40ms",
+      "ms": "35ms",
       "icon": "fa-globe",
       "killed": false,
-      "cpu": "48%",
-      "ram": "50%"
+      "cpu": "10%",
+      "ram": "40%"
     },
     "10": {
       "id": 10,
       "name": "Brazil",
       "ip": "172.67.162.58",
-      "status": "connect",
-      "ms": "90ms",
+      "status": "disconnect",
+      "ms": "163ms",
       "icon": "fa-globe",
       "killed": false,
-      "cpu": "39%",
-      "ram": "34%"
+      "cpu": "14%",
+      "ram": "30%"
     }
   }
 }
