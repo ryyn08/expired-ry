@@ -1,27 +1,27 @@
 {
-  "sha": "732320a7fc741a2ce717110c452fe7f8dc67d0ae",
+  "sha": "e911d0aad4115bc74221fcf99df4bc5a3e256008",
   "servers": {
     "1": {
       "id": 1,
       "name": "Canada",
       "ip": "98.142.250.14",
       "status": "connect",
-      "ms": "80ms",
+      "ms": "88ms",
       "icon": "fa-globe-americas",
       "killed": false,
-      "cpu": "12%",
-      "ram": "47%"
+      "cpu": "27%",
+      "ram": "49%"
     },
     "2": {
       "id": 2,
       "name": "Singapore",
       "ip": "98.142.250.14",
       "status": "connect",
-      "ms": "97ms",
+      "ms": "93ms",
       "icon": "fa-globe-asia",
       "killed": false,
-      "cpu": "10%",
-      "ram": "30%"
+      "cpu": "49%",
+      "ram": "33%"
     },
     "3": {
       "id": 3,
@@ -39,51 +39,51 @@
       "name": "India",
       "ip": "172.67.162.58",
       "status": "connect",
-      "ms": "112ms",
+      "ms": "103ms",
       "icon": "fa-globe-americas",
       "killed": false,
       "cpu": "18%",
-      "ram": "54%"
+      "ram": "44%"
     },
     "5": {
       "id": 5,
       "name": "Hong Kong",
       "ip": "104.21.82.187",
       "status": "connect",
-      "ms": "57ms",
+      "ms": "43ms",
       "icon": "fa-globe",
       "killed": false,
-      "cpu": "38%",
-      "ram": "60%"
+      "cpu": "8%",
+      "ram": "45%"
     },
     "6": {
       "id": 6,
       "name": "Poland",
       "ip": "188.114.96.11",
       "status": "connect",
-      "ms": "77ms",
+      "ms": "99ms",
       "icon": "fa-globe",
       "killed": false,
-      "cpu": "37%",
-      "ram": "48%"
+      "cpu": "39%",
+      "ram": "35%"
     },
     "7": {
       "id": 7,
       "name": "Switzerland",
       "ip": "188.114.96.12",
       "status": "connect",
-      "ms": "48ms",
+      "ms": "50ms",
       "icon": "fa-globe",
       "killed": false,
-      "cpu": "27%",
-      "ram": "57%"
+      "cpu": "14%",
+      "ram": "51%"
     },
     "8": {
       "id": 8,
       "name": "Turkey",
       "ip": "188.114.97.7",
-      "status": "disconnect",
-      "ms": "159ms",
+      "status": "connect",
+      "ms": "62ms",
       "icon": "fa-globe",
       "killed": false,
       "cpu": "36%",
@@ -105,11 +105,11 @@
       "name": "Brazil",
       "ip": "172.67.162.58",
       "status": "connect",
-      "ms": "21ms",
+      "ms": "35ms",
       "icon": "fa-globe",
       "killed": false,
-      "cpu": "25%",
-      "ram": "46%"
+      "cpu": "22%",
+      "ram": "49%"
     }
   }
 }
