@@ -1,5 +1,5 @@
 {
-  "sha": "5227fff8c37eaac60d9533f0d5889711598d839a",
+  "sha": "f0a8c24c0b6fcc027e1cb08017920eabfc499333",
   "servers": {
     "1": {
       "id": 1,
@@ -17,11 +17,11 @@
       "name": "Singapore",
       "ip": "98.142.250.14",
       "status": "connect",
-      "ms": "131ms",
+      "ms": "132ms",
       "icon": "fa-globe-asia",
       "killed": false,
-      "cpu": "34%",
-      "ram": "31%"
+      "cpu": "28%",
+      "ram": "43%"
     },
     "3": {
       "id": 3,
@@ -39,10 +39,10 @@
       "name": "India",
       "ip": "172.67.162.58",
       "status": "connect",
-      "ms": "37ms",
+      "ms": "40ms",
       "icon": "fa-globe-americas",
       "killed": false,
-      "cpu": "21%",
+      "cpu": "42%",
       "ram": "46%"
     },
     "5": {
@@ -50,51 +50,51 @@
       "name": "Hong Kong",
       "ip": "104.21.82.187",
       "status": "connect",
-      "ms": "70ms",
+      "ms": "81ms",
       "icon": "fa-globe",
       "killed": false,
-      "cpu": "46%",
-      "ram": "36%"
+      "cpu": "20%",
+      "ram": "63%"
     },
     "6": {
       "id": 6,
       "name": "Poland",
       "ip": "188.114.96.11",
       "status": "connect",
-      "ms": "10ms",
+      "ms": "24ms",
       "icon": "fa-globe",
       "killed": false,
-      "cpu": "19%",
-      "ram": "32%"
+      "cpu": "28%",
+      "ram": "58%"
     },
     "7": {
       "id": 7,
       "name": "Switzerland",
       "ip": "188.114.96.12",
       "status": "connect",
-      "ms": "13ms",
+      "ms": "31ms",
       "icon": "fa-globe",
       "killed": false,
-      "cpu": "27%",
-      "ram": "64%"
+      "cpu": "45%",
+      "ram": "36%"
     },
     "8": {
       "id": 8,
       "name": "Turkey",
       "ip": "188.114.97.7",
       "status": "connect",
-      "ms": "93ms",
+      "ms": "79ms",
       "icon": "fa-globe",
       "killed": false,
-      "cpu": "30%",
-      "ram": "36%"
+      "cpu": "34%",
+      "ram": "40%"
     },
     "9": {
       "id": 9,
       "name": "Austria",
       "ip": "188.114.96.11",
-      "status": "disconnect",
-      "ms": "169ms",
+      "status": "connect",
+      "ms": "28ms",
       "icon": "fa-globe",
       "killed": false,
       "cpu": "38%",
@@ -104,8 +104,8 @@
       "id": 10,
       "name": "Brazil",
       "ip": "172.67.162.58",
-      "status": "connect",
-      "ms": "148ms",
+      "status": "disconnect",
+      "ms": "170ms",
       "icon": "fa-globe",
       "killed": false,
       "cpu": "47%",
