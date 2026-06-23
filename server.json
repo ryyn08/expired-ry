@@ -1,5 +1,5 @@
 {
-  "sha": "c208bd3904b29e32c3cd6661a1109b28c7bf490d",
+  "sha": "2227e28a9e750e9a8477058411faf0fcf1eae1a5",
   "servers": {
     "1": {
       "id": 1,
@@ -16,10 +16,10 @@
       "id": 2,
       "name": "Singapore",
       "ip": "98.142.250.14",
-      "status": "disconnect",
-      "ms": "lockdown",
+      "status": "connect",
+      "ms": "12ms",
       "icon": "fa-globe-asia",
-      "killed": true,
+      "killed": false,
       "cpu": "31%",
       "ram": "63%"
     },
