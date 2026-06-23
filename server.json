@@ -1,5 +1,5 @@
 {
-  "sha": "e9e82ecb024f782e0d5449d1f812232ebed02d6b",
+  "sha": "d01dfeba63fade90ab2534ca90c1c75fa939b44d",
   "servers": {
     "1": {
       "id": 1,
@@ -49,8 +49,8 @@
       "id": 5,
       "name": "Hong Kong",
       "ip": "104.21.82.187",
-      "status": "disconnect",
-      "ms": "194ms",
+      "status": "connect",
+      "ms": "34ms",
       "icon": "fa-globe",
       "killed": false,
       "cpu": "13%",
