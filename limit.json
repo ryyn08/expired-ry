@@ -1010,7 +1010,7 @@
   "6283875799943": {
     "nama": "Cel",
     "umur": "14",
-    "limit": 100000,
+    "limit": 50000,
     "tanggalDaftar": "03/07/2026",
     "jamDaftar": "19:43"
   },
@@ -1052,7 +1052,7 @@
   "628972175989": {
     "nama": "ipo",
     "umur": "19",
-    "limit": 0,
+    "limit": 50000,
     "tanggalDaftar": "05/07/2026",
     "jamDaftar": "14:11"
   },
