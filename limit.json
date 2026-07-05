@@ -1048,5 +1048,12 @@
     "limit": 95,
     "tanggalDaftar": "04/07/2026",
     "jamDaftar": "18:41"
+  },
+  "628972175989": {
+    "nama": "ipo",
+    "umur": "19",
+    "limit": 50,
+    "tanggalDaftar": "05/07/2026",
+    "jamDaftar": "14:11"
   }
 }
