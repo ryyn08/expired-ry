@@ -989,7 +989,7 @@
   "6283166842001": {
     "nama": "Difzx",
     "umur": "20",
-    "limit": 500100,
+    "limit": 500000,
     "tanggalDaftar": "02/07/2026",
     "jamDaftar": "16:12"
   },
@@ -1017,7 +1017,7 @@
   "6283869892751": {
     "nama": "renz",
     "umur": "5",
-    "limit": 0,
+    "limit": 100,
     "tanggalDaftar": "03/07/2026",
     "jamDaftar": "20:47"
   },
