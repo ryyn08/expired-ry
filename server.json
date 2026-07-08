@@ -1,5 +1,5 @@
 {
-  "sha": "f3c644188cc981f380d5de555541d9f00aca96c8",
+  "sha": "1b9d88899ba278950eb78255663fea0d634afaf0",
   "servers": {
     "1": {
       "id": 1,
@@ -49,8 +49,8 @@
       "id": 5,
       "name": "Hong Kong",
       "ip": "104.21.82.187",
-      "status": "disconnect",
-      "ms": "lockdown",
+      "status": "connect",
+      "ms": "42ms",
       "icon": "fa-globe",
       "killed": false,
       "cpu": "11%",
@@ -72,7 +72,7 @@
       "name": "Switzerland",
       "ip": "188.114.96.12",
       "status": "connect",
-      "ms": "54ms",
+      "ms": "57ms",
       "icon": "fa-globe",
       "killed": false,
       "cpu": "13%",
@@ -83,7 +83,7 @@
       "name": "Turkey",
       "ip": "188.114.97.7",
       "status": "connect",
-      "ms": "55ms",
+      "ms": "58ms",
       "icon": "fa-globe",
       "killed": false,
       "cpu": "34%",
