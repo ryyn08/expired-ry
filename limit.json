@@ -464,7 +464,7 @@
   "6281274975800": {
     "nama": "Siti",
     "umur": "15",
-    "limit": 1515,
+    "limit": 1500,
     "tanggalDaftar": "10/06/2026",
     "jamDaftar": "20:52"
   },
@@ -1003,7 +1003,7 @@
   "6281225978688": {
     "nama": "Ken",
     "umur": "17",
-    "limit": 0,
+    "limit": 15,
     "tanggalDaftar": "03/07/2026",
     "jamDaftar": "14:28"
   },
