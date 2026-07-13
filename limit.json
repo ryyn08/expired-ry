@@ -982,7 +982,7 @@
   "6285218215814": {
     "nama": "Jose",
     "umur": "13",
-    "limit": 21208,
+    "limit": 21108,
     "tanggalDaftar": "02/07/2026",
     "jamDaftar": "15:02"
   },
@@ -1262,7 +1262,7 @@
   "6282221750658": {
     "nama": "var",
     "umur": "15",
-    "limit": 0,
+    "limit": 100,
     "tanggalDaftar": "13/07/2026",
     "jamDaftar": "20:05"
   }
