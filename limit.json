@@ -1325,6 +1325,13 @@
   "6285136089421": {
     "nama": "ok",
     "umur": "18",
+    "limit": 1100,
+    "tanggalDaftar": "17/07/2026",
+    "jamDaftar": "18:41"
+  },
+  "6285781270038": {
+    "nama": "zynn",
+    "umur": "17",
     "limit": 100,
     "tanggalDaftar": "17/07/2026",
     "jamDaftar": "18:41"
