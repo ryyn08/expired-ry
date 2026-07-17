@@ -1150,7 +1150,7 @@
   "6285523568687": {
     "nama": "renz",
     "umur": "13",
-    "limit": 739,
+    "limit": 239,
     "tanggalDaftar": "08/07/2026",
     "jamDaftar": "20:20"
   },
@@ -1321,5 +1321,12 @@
     "limit": 98,
     "tanggalDaftar": "17/07/2026",
     "jamDaftar": "05:12"
+  },
+  "6289530071590": {
+    "nama": "nold",
+    "umur": "17",
+    "limit": 100,
+    "tanggalDaftar": "17/07/2026",
+    "jamDaftar": "17:24"
   }
 }
