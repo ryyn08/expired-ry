@@ -457,7 +457,7 @@
   "6289685111044": {
     "nama": "rditya",
     "umur": "15",
-    "limit": 256,
+    "limit": 255,
     "tanggalDaftar": "10/06/2026",
     "jamDaftar": "20:00"
   },
