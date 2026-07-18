@@ -1356,5 +1356,12 @@
     "limit": 1600,
     "tanggalDaftar": "18/07/2026",
     "jamDaftar": "20:16"
+  },
+  "6285133041700": {
+    "nama": "Iko",
+    "umur": "15",
+    "limit": 100,
+    "tanggalDaftar": "18/07/2026",
+    "jamDaftar": "20:19"
   }
 }
