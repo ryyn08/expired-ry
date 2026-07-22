@@ -1108,7 +1108,7 @@
   "6285122328139": {
     "nama": "yakk",
     "umur": "16",
-    "limit": 10300,
+    "limit": 10000,
     "tanggalDaftar": "07/07/2026",
     "jamDaftar": "12:46"
   },
@@ -1451,7 +1451,7 @@
   "628151633312": {
     "nama": "bian",
     "umur": "17",
-    "limit": 625,
+    "limit": 925,
     "tanggalDaftar": "22/07/2026",
     "jamDaftar": "18:08"
   }
