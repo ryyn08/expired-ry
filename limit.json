@@ -37,7 +37,7 @@
   "6283119396819": {
     "nama": "Rin",
     "umur": "17",
-    "limit": "∞50",
+    "limit": "∞",
     "tanggalDaftar": "15/05/2026",
     "jamDaftar": "10:00"
   },
@@ -1402,7 +1402,7 @@
   "6285741881836": {
     "nama": "rekunCik",
     "umur": "16",
-    "limit": 10324,
+    "limit": 10300,
     "tanggalDaftar": "19/07/2026",
     "jamDaftar": "21:31"
   },
