@@ -905,7 +905,7 @@
   "6281316885675": {
     "nama": "panzz",
     "umur": "15",
-    "limit": "∞50",
+    "limit": "∞",
     "tanggalDaftar": "30/06/2026",
     "jamDaftar": "16:14"
   },
@@ -1507,7 +1507,7 @@
   "6287874517578": {
     "nama": "Namakamu",
     "umur": "20",
-    "limit": 1425,
+    "limit": 1424,
     "tanggalDaftar": "30/07/2026",
     "jamDaftar": "12:03"
   },
