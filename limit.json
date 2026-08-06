@@ -905,7 +905,7 @@
   "6281316885675": {
     "nama": "panzz",
     "umur": "15",
-    "limit": "∞50",
+    "limit": 0,
     "tanggalDaftar": "30/06/2026",
     "jamDaftar": "16:14"
   },
