@@ -1234,7 +1234,7 @@
   "6285832108066": {
     "nama": "danzz",
     "umur": "17",
-    "limit": "∞5050",
+    "limit": "∞",
     "tanggalDaftar": "13/07/2026",
     "jamDaftar": "17:41"
   },
@@ -1395,7 +1395,7 @@
   "6289502850308": {
     "nama": "Manz",
     "umur": "17",
-    "limit": 24000,
+    "limit": 24640,
     "tanggalDaftar": "19/07/2026",
     "jamDaftar": "17:18"
   },
