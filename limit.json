@@ -362,5 +362,12 @@
     "limit": 15649,
     "tanggalDaftar": "23/08/2026",
     "jamDaftar": "08:27"
+  },
+  "6285191365494": {
+    "nama": "daftar",
+    "umur": "17",
+    "limit": 100,
+    "tanggalDaftar": "24/08/2026",
+    "jamDaftar": "01:06"
   }
 }
