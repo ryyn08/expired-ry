@@ -107,7 +107,7 @@
   "6285811500108": {
     "nama": "rin",
     "umur": "17",
-    "limit": "∞100050505050",
+    "limit": "∞",
     "tanggalDaftar": "14/08/2026",
     "jamDaftar": "18:02"
   },
@@ -390,5 +390,12 @@
     "limit": "∞",
     "tanggalDaftar": "25/08/2026",
     "jamDaftar": "16:09"
+  },
+  "6285770606276": {
+    "nama": "dika",
+    "umur": "17",
+    "limit": 100,
+    "tanggalDaftar": "25/08/2026",
+    "jamDaftar": "17:54"
   }
 }
