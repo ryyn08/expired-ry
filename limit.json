@@ -418,5 +418,12 @@
     "limit": 8601,
     "tanggalDaftar": "26/08/2026",
     "jamDaftar": "17:03"
+  },
+  "6288980702511": {
+    "nama": "zarr",
+    "umur": "17",
+    "limit": 100,
+    "tanggalDaftar": "26/08/2026",
+    "jamDaftar": "17:50"
   }
 }
