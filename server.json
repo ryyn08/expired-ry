@@ -1,5 +1,5 @@
 {
-  "sha": "824b038336719936d15a1ed249cff68f0bb8e0c1",
+  "sha": "67443528980d7f74cd3a389af884f2845030be75",
   "servers": {
     "1": {
       "id": 1,
@@ -60,8 +60,8 @@
       "id": 6,
       "name": "Poland",
       "ip": "188.114.96.11",
-      "status": "disconnect",
-      "ms": "lockdown",
+      "status": "connect",
+      "ms": "27ms",
       "icon": "fa-globe",
       "killed": false,
       "cpu": "14%",
