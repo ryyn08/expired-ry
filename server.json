@@ -1,5 +1,5 @@
 {
-  "sha": "d21455874869068f01f4a709c4facc44a91a4fd6",
+  "sha": "ff46929d301fff13b47703d0d6f5f543bac8f7b8",
   "servers": {
     "1": {
       "id": 1,
@@ -82,8 +82,8 @@
       "id": 8,
       "name": "Turkey",
       "ip": "188.114.97.7",
-      "status": "disconnect",
-      "ms": "lockdown",
+      "status": "connect",
+      "ms": "59ms",
       "icon": "fa-globe",
       "killed": false,
       "cpu": "19%",
@@ -93,8 +93,8 @@
       "id": 9,
       "name": "Austria",
       "ip": "188.114.96.11",
-      "status": "disconnect",
-      "ms": "lockdown",
+      "status": "connect",
+      "ms": "53ms",
       "icon": "fa-globe",
       "killed": false,
       "cpu": "13%",
