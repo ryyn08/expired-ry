@@ -1,60 +1,60 @@
 {
-  "sha": "5019dbc4f1eebd2f88c400d8d7e7a4fe4f4c494c",
+  "sha": "d21455874869068f01f4a709c4facc44a91a4fd6",
   "servers": {
     "1": {
       "id": 1,
       "name": "Canada",
       "ip": "98.142.250.14",
       "status": "connect",
-      "ms": "33ms",
+      "ms": "32ms",
       "icon": "fa-globe-americas",
       "killed": false,
-      "cpu": "12%",
-      "ram": "42%"
+      "cpu": "43%",
+      "ram": "57%"
     },
     "2": {
       "id": 2,
       "name": "Singapore",
       "ip": "98.142.250.14",
-      "status": "connect",
-      "ms": "29ms",
+      "status": "disconnect",
+      "ms": "154ms",
       "icon": "fa-globe-asia",
       "killed": false,
-      "cpu": "8%",
-      "ram": "35%"
+      "cpu": "46%",
+      "ram": "48%"
     },
     "3": {
       "id": 3,
       "name": "USA",
       "ip": "98.142.250.14",
-      "status": "disconnect",
-      "ms": "lockdown",
+      "status": "connect",
+      "ms": "25ms",
       "icon": "fa-globe-americas",
       "killed": false,
-      "cpu": "15%",
-      "ram": "48%"
+      "cpu": "27%",
+      "ram": "64%"
     },
     "4": {
       "id": 4,
       "name": "India",
       "ip": "172.67.162.58",
-      "status": "disconnect",
-      "ms": "lockdown",
+      "status": "connect",
+      "ms": "31ms",
       "icon": "fa-globe-americas",
       "killed": false,
-      "cpu": "22%",
-      "ram": "51%"
+      "cpu": "12%",
+      "ram": "34%"
     },
     "5": {
       "id": 5,
       "name": "Hong Kong",
       "ip": "104.21.82.187",
-      "status": "disconnect",
-      "ms": "lockdown",
+      "status": "connect",
+      "ms": "61ms",
       "icon": "fa-globe",
       "killed": false,
-      "cpu": "10%",
-      "ram": "39%"
+      "cpu": "15%",
+      "ram": "64%"
     },
     "6": {
       "id": 6,
@@ -72,11 +72,11 @@
       "name": "Switzerland",
       "ip": "188.114.96.12",
       "status": "connect",
-      "ms": "123ms",
+      "ms": "102ms",
       "icon": "fa-globe",
       "killed": false,
-      "cpu": "14%",
-      "ram": "55%"
+      "cpu": "40%",
+      "ram": "58%"
     },
     "8": {
       "id": 8,
