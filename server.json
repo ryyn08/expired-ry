@@ -1,12 +1,12 @@
 {
-  "sha": "6851aa5d12109f502304a6936a74600d11be4f6b",
+  "sha": "345c41f1630319d00d6f02d11c1baf40cfc1275c",
   "servers": {
     "1": {
       "id": 1,
       "name": "Canada",
       "ip": "98.142.250.14",
-      "status": "disconnect",
-      "ms": "227ms",
+      "status": "connect",
+      "ms": "56ms",
       "icon": "fa-globe-americas",
       "killed": false,
       "cpu": "12%",
@@ -17,44 +17,44 @@
       "name": "Singapore",
       "ip": "98.142.250.14",
       "status": "connect",
-      "ms": "52ms",
+      "ms": "76ms",
       "icon": "fa-globe-asia",
       "killed": false,
-      "cpu": "17%",
-      "ram": "38%"
+      "cpu": "48%",
+      "ram": "59%"
     },
     "3": {
       "id": 3,
       "name": "USA",
       "ip": "98.142.250.14",
       "status": "connect",
-      "ms": "125ms",
+      "ms": "131ms",
       "icon": "fa-globe-americas",
       "killed": false,
-      "cpu": "33%",
-      "ram": "34%"
+      "cpu": "31%",
+      "ram": "31%"
     },
     "4": {
       "id": 4,
       "name": "India",
       "ip": "172.67.162.58",
       "status": "connect",
-      "ms": "105ms",
+      "ms": "94ms",
       "icon": "fa-globe-americas",
       "killed": false,
-      "cpu": "29%",
-      "ram": "36%"
+      "cpu": "22%",
+      "ram": "34%"
     },
     "5": {
       "id": 5,
       "name": "Hong Kong",
       "ip": "104.21.82.187",
       "status": "connect",
-      "ms": "114ms",
+      "ms": "104ms",
       "icon": "fa-globe",
       "killed": false,
-      "cpu": "14%",
-      "ram": "54%"
+      "cpu": "29%",
+      "ram": "34%"
     },
     "6": {
       "id": 6,
@@ -71,8 +71,8 @@
       "id": 7,
       "name": "Switzerland",
       "ip": "188.114.96.12",
-      "status": "disconnect",
-      "ms": "227ms",
+      "status": "connect",
+      "ms": "15ms",
       "icon": "fa-globe",
       "killed": false,
       "cpu": "5%",
@@ -83,11 +83,11 @@
       "name": "Turkey",
       "ip": "188.114.97.7",
       "status": "connect",
-      "ms": "45ms",
+      "ms": "51ms",
       "icon": "fa-globe",
       "killed": false,
-      "cpu": "21%",
-      "ram": "61%"
+      "cpu": "18%",
+      "ram": "36%"
     },
     "9": {
       "id": 9,
@@ -97,8 +97,8 @@
       "ms": "120ms",
       "icon": "fa-globe",
       "killed": false,
-      "cpu": "36%",
-      "ram": "52%"
+      "cpu": "33%",
+      "ram": "32%"
     },
     "10": {
       "id": 10,
