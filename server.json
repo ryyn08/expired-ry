@@ -1,5 +1,5 @@
 {
-  "sha": "345c41f1630319d00d6f02d11c1baf40cfc1275c",
+  "sha": "506c10582c7e6e659a69efe3e9d2dda8b1743e38",
   "servers": {
     "1": {
       "id": 1,
@@ -9,26 +9,26 @@
       "ms": "56ms",
       "icon": "fa-globe-americas",
       "killed": false,
-      "cpu": "12%",
-      "ram": "58%"
+      "cpu": "15%",
+      "ram": "41%"
     },
     "2": {
       "id": 2,
       "name": "Singapore",
       "ip": "98.142.250.14",
       "status": "connect",
-      "ms": "76ms",
+      "ms": "80ms",
       "icon": "fa-globe-asia",
       "killed": false,
-      "cpu": "48%",
+      "cpu": "33%",
       "ram": "59%"
     },
     "3": {
       "id": 3,
       "name": "USA",
       "ip": "98.142.250.14",
-      "status": "connect",
-      "ms": "131ms",
+      "status": "disconnect",
+      "ms": "225ms",
       "icon": "fa-globe-americas",
       "killed": false,
       "cpu": "31%",
@@ -39,22 +39,22 @@
       "name": "India",
       "ip": "172.67.162.58",
       "status": "connect",
-      "ms": "94ms",
+      "ms": "97ms",
       "icon": "fa-globe-americas",
       "killed": false,
-      "cpu": "22%",
-      "ram": "34%"
+      "cpu": "24%",
+      "ram": "53%"
     },
     "5": {
       "id": 5,
       "name": "Hong Kong",
       "ip": "104.21.82.187",
       "status": "connect",
-      "ms": "104ms",
+      "ms": "106ms",
       "icon": "fa-globe",
       "killed": false,
-      "cpu": "29%",
-      "ram": "34%"
+      "cpu": "40%",
+      "ram": "31%"
     },
     "6": {
       "id": 6,
@@ -72,40 +72,40 @@
       "name": "Switzerland",
       "ip": "188.114.96.12",
       "status": "connect",
-      "ms": "15ms",
+      "ms": "10ms",
       "icon": "fa-globe",
       "killed": false,
-      "cpu": "5%",
-      "ram": "37%"
+      "cpu": "47%",
+      "ram": "51%"
     },
     "8": {
       "id": 8,
       "name": "Turkey",
       "ip": "188.114.97.7",
       "status": "connect",
-      "ms": "51ms",
+      "ms": "64ms",
       "icon": "fa-globe",
       "killed": false,
-      "cpu": "18%",
-      "ram": "36%"
+      "cpu": "37%",
+      "ram": "31%"
     },
     "9": {
       "id": 9,
       "name": "Austria",
       "ip": "188.114.96.11",
       "status": "connect",
-      "ms": "120ms",
+      "ms": "128ms",
       "icon": "fa-globe",
       "killed": false,
-      "cpu": "33%",
-      "ram": "32%"
+      "cpu": "20%",
+      "ram": "52%"
     },
     "10": {
       "id": 10,
       "name": "Brazil",
       "ip": "172.67.162.58",
-      "status": "disconnect",
-      "ms": "158ms",
+      "status": "connect",
+      "ms": "42ms",
       "icon": "fa-globe",
       "killed": false,
       "cpu": "44%",
